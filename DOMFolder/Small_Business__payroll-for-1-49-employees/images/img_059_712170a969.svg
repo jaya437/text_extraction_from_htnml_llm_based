@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="14px" viewBox="0 0 10 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icn-nav-login</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icn-nav-login" fill="#D0271D" fill-rule="nonzero">
+            <path d="M0,14 L0,9.57894737 L0.188706733,9.57885683 C0.643919905,8.29105992 1.87210776,7.36842105 3.31578947,7.36842105 L6.68421053,7.36842105 C8.12789224,7.36842105 9.35608009,8.29105992 9.81129327,9.57885683 L10,9.57894737 L10,14 L0,14 Z M5,0 C6.57560217,0 7.85714286,1.32244693 7.85714286,2.94708705 C7.85714286,4.57228991 6.57560217,5.89473684 5,5.89473684 C3.42439783,5.89473684 2.14285714,4.57228991 2.14285714,2.94708705 C2.14285714,1.32244693 3.42439783,0 5,0 Z" id="Combined-Shape"></path>
+        </g>
+    </g>
+</svg>

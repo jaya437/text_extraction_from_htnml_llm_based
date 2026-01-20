@@ -1,0 +1,480 @@
+{
+  "source": {
+    "url": "https://www.adp.com/what-we-offer/payroll/payroll-for-1-49-employees.aspx",
+    "page_title": "Small Business Payroll Services & Software | #1 G2 Rated | ADP",
+    "scraped_at": "2026-01-06T14:13:28.778417"
+  },
+  "cleaning_stats": {
+    "original_dom_size": 400610,
+    "cleaned_dom_size": 96726,
+    "estimated_tokens": 24181,
+    "elements_removed": {
+      "scripts": 99,
+      "styles": 19,
+      "comments": 22,
+      "hidden_elements": 23,
+      "nav_elements": 3,
+      "footer_elements": 1,
+      "other_removed": 6
+    }
+  },
+  "image_filtering": {
+    "total_original": 55,
+    "passed_filter": 20,
+    "skipped": 35,
+    "skipped_reasons": {
+      "unsupported_format": 30,
+      "tracking_pixel": 5
+    }
+  },
+  "filtered_images": [
+    {
+      "index": 1,
+      "local_path": "images/img_001_4c033f9763.png",
+      "src": "https://www.adp.com/-/media/adp/refresh2025/images/misc/navpromo_runproductscreen.png?rev=6b3e75497a62473fa94e742836118e66&hash=264EA297C8FD47547A7480656DD25AB0",
+      "alt": "",
+      "width": 200,
+      "height": 148,
+      "file_size": 22745,
+      "file_type": "png"
+    },
+    {
+      "index": 11,
+      "local_path": "images/img_011_418f0ce730.jpg",
+      "src": "https://www.adp.com/-/media/adp/refresh2025/shared/misc/comparepackage_navigation_257w_en.jpg?rev=a0b18990f4b14fcbbc7780c375c6fb94&hash=F41789D6B8F45657BCBC98164344D83F",
+      "alt": "",
+      "width": 205,
+      "height": 150,
+      "file_size": 7601,
+      "file_type": "jpg"
+    },
+    {
+      "index": 12,
+      "local_path": "images/img_012_5ad8166670.png",
+      "src": "https://www.adp.com/-/media/adp/refresh2025/shared/misc/mainnav_promospot_lyric_205w_en.png?rev=192ae1d9d14e4dc7b09b676be62647cb&hash=D4B326AC24466250B3BED2550E6F7AF0",
+      "alt": "",
+      "width": 205,
+      "height": 150,
+      "file_size": 5721,
+      "file_type": "png"
+    },
+    {
+      "index": 14,
+      "local_path": "images/img_014_3d6442ed28.png",
+      "src": "https://www.adp.com/-/media/adp/refresh2025/images/resources/big-beautiful-bill/nav_promo_no_bg.png?rev=9d5d92d429f94068b4e750ceac14c575&hash=0AAA0FA454244FE223B62705E2C5EF2E",
+      "alt": "Your guide to the One Big Beautiful Bill Act",
+      "width": 171,
+      "height": 125,
+      "file_size": 13881,
+      "file_type": "png"
+    },
+    {
+      "index": 16,
+      "local_path": "images/img_016_823fb9ee3d.png",
+      "src": "https://www.adp.com/-/media/adp/refresh2025/images/what-we-offer/payroll-overview/payroll-1-49/wwo_sbspayroll_hero_620w_en.png?rev=1d18c143f10d441084b8927c8143846b&la=en&h=540&w=620&hash=8024AC5F98E9C0E4B7AEE5EE73DDE238",
+      "alt": "",
+      "width": 620,
+      "height": 540,
+      "file_size": 94222,
+      "file_type": "png"
+    },
+    {
+      "index": 17,
+      "local_path": "images/img_017_9347611906.jpg",
+      "src": "https://www.adp.com/-/media/adp/refresh2025/shared/run-demo/run_democard_1minoverview_586w_en.jpg?rev=f1b24377c4f64aa99d781e191d88d7c6&la=en&h=295&w=586&hash=87E75FF12B38035C4F4B9EAADDDB4275",
+      "alt": "",
+      "width": 586,
+      "height": 295,
+      "file_size": 27476,
+      "file_type": "jpg"
+    },
+    {
+      "index": 18,
+      "local_path": "images/img_018_66180af2dd.jpg",
+      "src": "https://www.adp.com/-/media/adp/refresh2025/shared/run-demo/run_democard_interactivedemo_586w_en.jpg?rev=a11abcbd706b46899f2c02e6546ab7af&la=en&h=295&w=586&hash=6F3D3840DD541AE9CE7FFF23962CB59D",
+      "alt": "",
+      "width": 586,
+      "height": 295,
+      "file_size": 41176,
+      "file_type": "jpg"
+    },
+    {
+      "index": 21,
+      "local_path": "images/img_021_9a74697cb2.png",
+      "src": "https://www.adp.com/-/media/adp/reskin2022/images/whoweserve/bybusinesssize/149employees/img_rating_stars_9.png?rev=202848a92b6742ee909d0817a1c7146a&la=en&h=27&w=74&hash=A9DA3813FA54841CCA838BA211B01C35",
+      "alt": "",
+      "width": 74,
+      "height": 27,
+      "file_size": 986,
+      "file_type": "png"
+    },
+    {
+      "index": 22,
+      "local_path": "images/img_022_579700e702.png",
+      "src": "https://www.adp.com/-/media/adp/refresh2025/images/cro/fy25hrtrends_ctablade_v2_400w_en.png?rev=fa59813ac57b46cda94197db07f15a69&hash=533661075E719A0102975D08562CD2C6",
+      "alt": "52% of employees report feeling burned out in the past year because of their job",
+      "width": 401,
+      "height": 226,
+      "file_size": 18379,
+      "file_type": "png"
+    },
+    {
+      "index": 23,
+      "local_path": "images/img_023_244023a7c0.jpg",
+      "src": "https://www.adp.com/-/media/adp/refresh2025/images/what-we-offer/images-wold-brand-checkmarks/wwo_sbs_allinonepayroll_tab1_image_620w_en.jpg?rev=ecfe4dea4e614912b1398e66ef358704&la=en&h=500&w=620&hash=930804B63537591761CF5406EEC1C8BA",
+      "alt": "Anytime, anywhere, any device. Auto taxes and forms, Flexible pay options.",
+      "width": 620,
+      "height": 500,
+      "file_size": 38984,
+      "file_type": "jpg"
+    },
+    {
+      "index": 24,
+      "local_path": "images/img_024_dd09404b27.jpg",
+      "src": "https://www.adp.com/-/media/adp/refresh2025/images/what-we-offer/payroll-overview/payroll-1-49/wwo_sbspayroll_sidebyside3_620w_en.jpg?rev=845c4c7dd7ce43df9994df5e67d6f047&la=en&h=470&w=620&hash=5D463BA3CAE0D3B76D74A387515A3885",
+      "alt": "",
+      "width": 620,
+      "height": 470,
+      "file_size": 46748,
+      "file_type": "jpg"
+    },
+    {
+      "index": 25,
+      "local_path": "images/img_025_60241a05a5.jpg",
+      "src": "https://www.adp.com/-/media/adp/reskin2022/images/whatweoffer/payroll/small/side_by_side_avoid_costly.jpg?rev=db241c1cd8564b838b380f089b9eefd2&la=en&h=526&w=660&hash=A643A943F339897ACAD20F57080294F5",
+      "alt": "Screenshot of notification for overdue outstanding timesheet for John Smith",
+      "width": 660,
+      "height": 526,
+      "file_size": 36859,
+      "file_type": "jpg"
+    },
+    {
+      "index": 26,
+      "local_path": "images/img_026_f0d1099a71.png",
+      "src": "https://www.adp.com/-/media/adp/refresh2025/images/what-we-offer/payroll-overview/payroll-1-49/sbs-switchers/g2award_ctabanner_586w_en-(1).png?rev=e31bfdc9ccc74b2db392d4b39a46309a&hash=D33A1C02E90411048BCA05A03233D3D7",
+      "alt": "RUN Powered by ADP® is #1 on G2’s Best Software Products for Small Business",
+      "width": 200,
+      "height": 233,
+      "file_size": 30163,
+      "file_type": "png"
+    },
+    {
+      "index": 40,
+      "local_path": "images/img_040_e92df38d97.png",
+      "src": "https://www.adp.com/-/media/adp/redesign2018/images/resource-hub/img-hero-case-study-generic.png?rev=53ccc31423da47b8bf4a41f6662493ed&la=en&h=446&w=448&hash=145A2B0D9C02CEB6961C560A1C60DF93",
+      "alt": "",
+      "width": 448,
+      "height": 446,
+      "file_size": 21801,
+      "file_type": "png"
+    },
+    {
+      "index": 43,
+      "local_path": "images/img_043_41aa2a7fe2.png",
+      "src": "https://www.adp.com/-/media/adp/resourcehub/rh2/images/testimonial/hero/headshot-hero-graphic-united-check-cashing.png?rev=442e00f60afa4f3cb51e32352e1b3b07&la=en&h=446&w=448&hash=8CC65737C441B8AB8B67AC67BFC91779",
+      "alt": "Mark Picillo, General Manager United Check Cashing",
+      "width": 448,
+      "height": 446,
+      "file_size": 151461,
+      "file_type": "png"
+    },
+    {
+      "index": 49,
+      "local_path": "images/img_049_e47a59ebb9.jpg",
+      "src": "https://www.adp.com/-/media/adp/resourcehub/images/articles/payroll-checklist/payrollchecklist_resourcecard1_586w_en.jpg?rev=a54cc114383f475c9e1e2248722475b1&la=en&h=294&w=586&hash=F7AB80CA148F8CCDD018FD8EC9C82825",
+      "alt": "",
+      "width": 586,
+      "height": 294,
+      "file_size": 30526,
+      "file_type": "jpg"
+    },
+    {
+      "index": 50,
+      "local_path": "images/img_050_cd31ac20a3.jpg",
+      "src": "https://www.adp.com/-/media/adp/resourcehub/images/articles/how-to-choose-a-payroll-provider-for-your-business/howtochooseapayrollprovider_resourcecard2_586w_en.jpg?rev=ca2d1341f5a749a8a49537217624f9b0&la=en&h=294&w=586&hash=3270A33EBB9AF3F4F756770070683B60",
+      "alt": "",
+      "width": 586,
+      "height": 294,
+      "file_size": 35364,
+      "file_type": "jpg"
+    },
+    {
+      "index": 51,
+      "local_path": "images/img_051_809ad58d19.jpg",
+      "src": "https://www.adp.com/-/media/adp/resourcehub/images/articles/switching-payroll-providers/resourcecard_switchingpayrollproviders_thumbnail_586w_en.jpg?rev=3b116c2c32984feb8ca9ab27c65127b6&la=en&h=294&w=586&hash=73FB50A667B2395FF059F56FFE11060A",
+      "alt": "",
+      "width": 586,
+      "height": 294,
+      "file_size": 44824,
+      "file_type": "jpg"
+    },
+    {
+      "index": 52,
+      "local_path": "images/img_052_5cee3777ee.png",
+      "src": "https://www.adp.com/-/media/adp/refresh2025/images/what-we-offer/products/run/run_demomodal_480w_2x_en.png?rev=723e59a3ad0e4af4a2546495abadde76",
+      "alt": "",
+      "width": 960,
+      "height": 570,
+      "file_size": 36366,
+      "file_type": "png"
+    },
+    {
+      "index": 53,
+      "local_path": "images/img_053_149bcb69f4.png",
+      "src": "https://www.adp.com/-/media/adp/reskin2022/images/whatweoffer/products/workforcenow/150-charity-offer/nurture_150charityoffer_modal_280w_en.png?rev=cf0be4210423477a9da39f19e913b58c&hash=A1D12067ED104868185B287F6B95A161",
+      "alt": "",
+      "width": 298,
+      "height": 213,
+      "file_size": 7207,
+      "file_type": "png"
+    }
+  ],
+  "skipped_images": [
+    {
+      "index": 0,
+      "local_path": "images/img_000_02e70b33e6.svg",
+      "skip_reason": "unsupported_format",
+      "pattern_matched": "svg",
+      "dimensions": null
+    },
+    {
+      "index": 2,
+      "local_path": "images/img_002_d0cb473243.svg",
+      "skip_reason": "unsupported_format",
+      "pattern_matched": "svg",
+      "dimensions": null
+    },
+    {
+      "index": 3,
+      "local_path": "images/img_003_1597a35608.svg",
+      "skip_reason": "unsupported_format",
+      "pattern_matched": "svg",
+      "dimensions": null
+    },
+    {
+      "index": 4,
+      "local_path": "images/img_004_b7a51f42c3.svg",
+      "skip_reason": "unsupported_format",
+      "pattern_matched": "svg",
+      "dimensions": null
+    },
+    {
+      "index": 5,
+      "local_path": "images/img_005_b3c97a86f3.svg",
+      "skip_reason": "unsupported_format",
+      "pattern_matched": "svg",
+      "dimensions": null
+    },
+    {
+      "index": 6,
+      "local_path": "images/img_006_bf02acaa8c.svg",
+      "skip_reason": "unsupported_format",
+      "pattern_matched": "svg",
+      "dimensions": null
+    },
+    {
+      "index": 7,
+      "local_path": "images/img_007_b8b7088ce2.svg",
+      "skip_reason": "unsupported_format",
+      "pattern_matched": "svg",
+      "dimensions": null
+    },
+    {
+      "index": 8,
+      "local_path": "images/img_008_d67142943c.svg",
+      "skip_reason": "unsupported_format",
+      "pattern_matched": "svg",
+      "dimensions": null
+    },
+    {
+      "index": 9,
+      "local_path": "images/img_009_e7a2c17614.svg",
+      "skip_reason": "unsupported_format",
+      "pattern_matched": "svg",
+      "dimensions": null
+    },
+    {
+      "index": 10,
+      "local_path": "images/img_010_c0024c0085.svg",
+      "skip_reason": "unsupported_format",
+      "pattern_matched": "svg",
+      "dimensions": null
+    },
+    {
+      "index": 13,
+      "local_path": "images/img_013_b3498215ab.svg",
+      "skip_reason": "unsupported_format",
+      "pattern_matched": "svg",
+      "dimensions": null
+    },
+    {
+      "index": 15,
+      "local_path": "images/img_015_81a355b3a7.svg",
+      "skip_reason": "unsupported_format",
+      "pattern_matched": "svg",
+      "dimensions": null
+    },
+    {
+      "index": 19,
+      "local_path": "images/img_019_d98b9846a2.svg",
+      "skip_reason": "unsupported_format",
+      "pattern_matched": "svg",
+      "dimensions": null
+    },
+    {
+      "index": 27,
+      "local_path": "images/img_027_af592e2e9f.svg",
+      "skip_reason": "unsupported_format",
+      "pattern_matched": "svg",
+      "dimensions": null
+    },
+    {
+      "index": 28,
+      "local_path": "images/img_028_0279c841d7.svg",
+      "skip_reason": "unsupported_format",
+      "pattern_matched": "svg",
+      "dimensions": null
+    },
+    {
+      "index": 29,
+      "local_path": "images/img_029_b2fef81c81.svg",
+      "skip_reason": "unsupported_format",
+      "pattern_matched": "svg",
+      "dimensions": null
+    },
+    {
+      "index": 30,
+      "local_path": "images/img_030_3ee29f5f50.svg",
+      "skip_reason": "unsupported_format",
+      "pattern_matched": "svg",
+      "dimensions": null
+    },
+    {
+      "index": 31,
+      "local_path": "images/img_031_c6fb81bd4d.svg",
+      "skip_reason": "unsupported_format",
+      "pattern_matched": "svg",
+      "dimensions": null
+    },
+    {
+      "index": 54,
+      "local_path": "images/img_054_83c867b293.svg",
+      "skip_reason": "unsupported_format",
+      "pattern_matched": "svg",
+      "dimensions": null
+    },
+    {
+      "index": 55,
+      "local_path": "images/img_055_060c8287a5.svg",
+      "skip_reason": "unsupported_format",
+      "pattern_matched": "svg",
+      "dimensions": null
+    },
+    {
+      "index": 56,
+      "local_path": "images/img_056_5898644bb4.svg",
+      "skip_reason": "unsupported_format",
+      "pattern_matched": "svg",
+      "dimensions": null
+    },
+    {
+      "index": 57,
+      "local_path": "images/img_057_228e6ae0fa.svg",
+      "skip_reason": "unsupported_format",
+      "pattern_matched": "svg",
+      "dimensions": null
+    },
+    {
+      "index": 58,
+      "local_path": "images/img_058_495eb95ccb.svg",
+      "skip_reason": "unsupported_format",
+      "pattern_matched": "svg",
+      "dimensions": null
+    },
+    {
+      "index": 59,
+      "local_path": "images/img_059_712170a969.svg",
+      "skip_reason": "unsupported_format",
+      "pattern_matched": "svg",
+      "dimensions": null
+    },
+    {
+      "index": 60,
+      "local_path": "images/img_060_804b3417fb.gif",
+      "skip_reason": "unsupported_format",
+      "pattern_matched": "gif",
+      "dimensions": null
+    },
+    {
+      "index": 61,
+      "local_path": "images/img_061_d57d60d365.jpg",
+      "skip_reason": "tracking_pixel",
+      "pattern_matched": "1x1",
+      "dimensions": "1x1"
+    },
+    {
+      "index": 62,
+      "local_path": "images/img_062_95dfd3fcc0.jpg",
+      "skip_reason": "tracking_pixel",
+      "pattern_matched": "1x1",
+      "dimensions": "1x1"
+    },
+    {
+      "index": 63,
+      "local_path": "images/img_063_9f50aed8e5.jpg",
+      "skip_reason": "tracking_pixel",
+      "pattern_matched": "0x0",
+      "dimensions": "NonexNone"
+    },
+    {
+      "index": 48,
+      "local_path": "images/img_048_5795385610.svg",
+      "skip_reason": "unsupported_format",
+      "pattern_matched": "svg",
+      "dimensions": null
+    },
+    {
+      "index": 49,
+      "local_path": "images/img_049_61772523cc.svg",
+      "skip_reason": "unsupported_format",
+      "pattern_matched": "svg",
+      "dimensions": null
+    },
+    {
+      "index": 50,
+      "local_path": "images/img_050_1bc93e769b.svg",
+      "skip_reason": "unsupported_format",
+      "pattern_matched": "svg",
+      "dimensions": null
+    },
+    {
+      "index": 51,
+      "local_path": "images/img_051_8e2d1e5197.svg",
+      "skip_reason": "unsupported_format",
+      "pattern_matched": "svg",
+      "dimensions": null
+    },
+    {
+      "index": 52,
+      "local_path": "images/img_052_f18e0513cb.jpg",
+      "skip_reason": "tracking_pixel",
+      "pattern_matched": "0x0",
+      "dimensions": "0x0"
+    },
+    {
+      "index": 53,
+      "local_path": "images/img_053_aeb0759357.svg",
+      "skip_reason": "unsupported_format",
+      "pattern_matched": "svg",
+      "dimensions": null
+    },
+    {
+      "index": 54,
+      "local_path": "images/img_054_40115cc224.png",
+      "skip_reason": "tracking_pixel",
+      "pattern_matched": "0x0",
+      "dimensions": "0x0"
+    }
+  ],
+  "cleaned_dom_path": "DOMFolder\\Small_Business__payroll-for-1-49-employees\\kb_payroll-for-1-49-employees_cleaned_dom.html"
+}

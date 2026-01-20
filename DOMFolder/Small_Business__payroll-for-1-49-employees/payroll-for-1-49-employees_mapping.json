@@ -1,0 +1,2394 @@
+{
+  "url": "https://www.adp.com/what-we-offer/payroll/payroll-for-1-49-employees.aspx",
+  "data_segment": "Small Business",
+  "page_title": "Small Business Payroll Services & Software | #1 G2 Rated | ADP",
+  "scraped_at": "2026-01-06T14:13:28.778417",
+  "images": [
+    {
+      "index": 0,
+      "src": "https://www.adp.com/-/media/adp2025/ui/logo-adp.svg?rev=2ffd0a893eca4842b0f071c1e9c186b8&hash=85D6D9870432E605FE0FD7F830F16744",
+      "alt": "ADP logo",
+      "title": "",
+      "width": 300,
+      "height": 137,
+      "local_path": "images/img_000_02e70b33e6.svg",
+      "download_status": "success",
+      "file_size": 1062
+    },
+    {
+      "index": 1,
+      "src": "https://www.adp.com/-/media/adp/refresh2025/images/misc/navpromo_runproductscreen.png?rev=6b3e75497a62473fa94e742836118e66&hash=264EA297C8FD47547A7480656DD25AB0",
+      "alt": "",
+      "title": "",
+      "width": 200,
+      "height": 148,
+      "local_path": "images/img_001_4c033f9763.png",
+      "download_status": "success",
+      "file_size": 22745
+    },
+    {
+      "index": 2,
+      "src": "https://www.adp.com/-/media/adp/refresh2025/icons/default/adp_icon_timescheduling.svg?rev=97de4f626e144a08a87f5362b6ec10c1&hash=E2E64F345E2587B71741B132C7E301A0",
+      "alt": "",
+      "title": "",
+      "width": 444,
+      "height": 424,
+      "local_path": "images/img_002_d0cb473243.svg",
+      "download_status": "success",
+      "file_size": 36536
+    },
+    {
+      "index": 3,
+      "src": "https://www.adp.com/-/media/adp/refresh2025/icons/default/adp_icon_talent.svg?rev=54eb4edb62c246a087b0933f80e16242&hash=59A436B0F163608C3361C5BEEDE45A16",
+      "alt": "",
+      "title": "",
+      "width": 439,
+      "height": 442,
+      "local_path": "images/img_003_1597a35608.svg",
+      "download_status": "success",
+      "file_size": 17099
+    },
+    {
+      "index": 4,
+      "src": "https://www.adp.com/-/media/adp/refresh2025/icons/default/adp_icon_benefits.svg?rev=8de2d18225924c318f422b48fd0dd5e0&hash=38F9D56ED71D99472B30723AC870FB32",
+      "alt": "",
+      "title": "",
+      "width": 452,
+      "height": 453,
+      "local_path": "images/img_004_b7a51f42c3.svg",
+      "download_status": "success",
+      "file_size": 20196
+    },
+    {
+      "index": 5,
+      "src": "https://www.adp.com/-/media/adp/refresh2025/icons/default/adp_icon_hrsupport.svg?rev=6a1862fe818f45ce8bf73d068f0f26bb&hash=26D5E19C51804244118550703339B90E",
+      "alt": "",
+      "title": "",
+      "width": 459,
+      "height": 430,
+      "local_path": "images/img_005_b3c97a86f3.svg",
+      "download_status": "success",
+      "file_size": 13296
+    },
+    {
+      "index": 6,
+      "src": "https://www.adp.com/-/media/adp/refresh2025/icons/default/adp_icon_taxcompliance.svg?rev=bebed6448d0240d3bf4187bbeded4fae&hash=1471DF919C8061EBBABAD40090BA53CD",
+      "alt": "",
+      "title": "",
+      "width": 455,
+      "height": 446,
+      "local_path": "images/img_006_bf02acaa8c.svg",
+      "download_status": "success",
+      "file_size": 9189
+    },
+    {
+      "index": 7,
+      "src": "https://www.adp.com/-/media/adp/refresh2025/icons/default/adp_icon_technology.svg?rev=8b66758e87c74bcba99957d370a08393&hash=959B84EC656C6621BAA051C6EEBABE69",
+      "alt": "",
+      "title": "",
+      "width": 463,
+      "height": 437,
+      "local_path": "images/img_007_b8b7088ce2.svg",
+      "download_status": "success",
+      "file_size": 30877
+    },
+    {
+      "index": 8,
+      "src": "https://www.adp.com/-/media/adp/refresh2025/icons/default/adp_icon_integrations.svg?rev=eec93fa2e29c45469669dd04192b8142&hash=48325C88EEFAAFDF3B80024A49923F36",
+      "alt": "",
+      "title": "",
+      "width": 436,
+      "height": 439,
+      "local_path": "images/img_008_d67142943c.svg",
+      "download_status": "success",
+      "file_size": 23474
+    },
+    {
+      "index": 9,
+      "src": "https://www.adp.com/-/media/adp/refresh2025/icons/default/adp_icon_userfriendlytech.svg?rev=c495efd32c414c0fba3c15f1c467ed0f&hash=C778A7E478FF2569049568F6A3EE548E",
+      "alt": "",
+      "title": "",
+      "width": 423,
+      "height": 429,
+      "local_path": "images/img_009_e7a2c17614.svg",
+      "download_status": "success",
+      "file_size": 53338
+    },
+    {
+      "index": 10,
+      "src": "https://www.adp.com/-/media/adp/refresh2025/icons/default/adp_icon_flexibility.svg?rev=e352e86fc00d44a0ac48db37ad33da62&hash=EC2CCFC2E969C02080BE1617F6965F6A",
+      "alt": "",
+      "title": "",
+      "width": 451,
+      "height": 418,
+      "local_path": "images/img_010_c0024c0085.svg",
+      "download_status": "success",
+      "file_size": 33867
+    },
+    {
+      "index": 11,
+      "src": "https://www.adp.com/-/media/adp/refresh2025/shared/misc/comparepackage_navigation_257w_en.jpg?rev=a0b18990f4b14fcbbc7780c375c6fb94&hash=F41789D6B8F45657BCBC98164344D83F",
+      "alt": "",
+      "title": "",
+      "width": 205,
+      "height": 150,
+      "local_path": "images/img_011_418f0ce730.jpg",
+      "download_status": "success",
+      "file_size": 7601
+    },
+    {
+      "index": 12,
+      "src": "https://www.adp.com/-/media/adp/refresh2025/shared/misc/mainnav_promospot_lyric_205w_en.png?rev=192ae1d9d14e4dc7b09b676be62647cb&hash=D4B326AC24466250B3BED2550E6F7AF0",
+      "alt": "",
+      "title": "",
+      "width": 205,
+      "height": 150,
+      "local_path": "images/img_012_5ad8166670.png",
+      "download_status": "success",
+      "file_size": 5721
+    },
+    {
+      "index": 13,
+      "src": "https://www.adp.com/-/media/adp/reskin2022/images/shared/adp_ri_logo_color_en_nav_promo.svg?rev=13dbdefc6a074342a61c9315cb0a610b&hash=C1A586545CFDC2B6F1DA26FC0A50C83C",
+      "alt": "ADP Research",
+      "title": "",
+      "width": 171,
+      "height": 24,
+      "local_path": "images/img_013_b3498215ab.svg",
+      "download_status": "success",
+      "file_size": 3423
+    },
+    {
+      "index": 14,
+      "src": "https://www.adp.com/-/media/adp/refresh2025/images/resources/big-beautiful-bill/nav_promo_no_bg.png?rev=9d5d92d429f94068b4e750ceac14c575&hash=0AAA0FA454244FE223B62705E2C5EF2E",
+      "alt": "Your guide to the One Big Beautiful Bill Act",
+      "title": "",
+      "width": 171,
+      "height": 125,
+      "local_path": "images/img_014_3d6442ed28.png",
+      "download_status": "success",
+      "file_size": 13881
+    },
+    {
+      "index": 15,
+      "src": "https://www.adp.com/-/media/adp2022/ui/icn-close.svg?rev=cd32a4a6928940b49f4c72ced53a7427&hash=A27B155E4E63DE93679C906099838EAF",
+      "alt": "",
+      "title": "",
+      "width": 27,
+      "height": 27,
+      "local_path": "images/img_015_81a355b3a7.svg",
+      "download_status": "success",
+      "file_size": 578
+    },
+    {
+      "index": 16,
+      "src": "https://www.adp.com/-/media/adp/refresh2025/images/what-we-offer/payroll-overview/payroll-1-49/wwo_sbspayroll_hero_620w_en.png?rev=1d18c143f10d441084b8927c8143846b&la=en&h=540&w=620&hash=8024AC5F98E9C0E4B7AEE5EE73DDE238",
+      "alt": "",
+      "title": "",
+      "width": 620,
+      "height": 540,
+      "local_path": "images/img_016_823fb9ee3d.png",
+      "download_status": "success",
+      "file_size": 94222
+    },
+    {
+      "index": 17,
+      "src": "https://www.adp.com/-/media/adp/refresh2025/shared/run-demo/run_democard_1minoverview_586w_en.jpg?rev=f1b24377c4f64aa99d781e191d88d7c6&la=en&h=295&w=586&hash=87E75FF12B38035C4F4B9EAADDDB4275",
+      "alt": "",
+      "title": "",
+      "width": 586,
+      "height": 295,
+      "local_path": "images/img_017_9347611906.jpg",
+      "download_status": "success",
+      "file_size": 27476
+    },
+    {
+      "index": 18,
+      "src": "https://www.adp.com/-/media/adp/refresh2025/shared/run-demo/run_democard_interactivedemo_586w_en.jpg?rev=a11abcbd706b46899f2c02e6546ab7af&la=en&h=295&w=586&hash=6F3D3840DD541AE9CE7FFF23962CB59D",
+      "alt": "",
+      "title": "",
+      "width": 586,
+      "height": 295,
+      "local_path": "images/img_018_66180af2dd.jpg",
+      "download_status": "success",
+      "file_size": 41176
+    },
+    {
+      "index": 19,
+      "src": "https://www.adp.com/-/media/adp/redesign2018/images/shared/img-rating-stars-4-5.svg?rev=3c61546e5da946a1870ac9ddde3ee42e&la=en&h=38&w=240&hash=FA5D1A63BF511C0583B6E6ED2A10320F",
+      "alt": "4.5/5.0 stars",
+      "title": "",
+      "width": 240,
+      "height": 39,
+      "local_path": "images/img_019_d98b9846a2.svg",
+      "download_status": "success",
+      "file_size": 2646
+    },
+    {
+      "index": 21,
+      "src": "https://www.adp.com/-/media/adp/reskin2022/images/whoweserve/bybusinesssize/149employees/img_rating_stars_9.png?rev=202848a92b6742ee909d0817a1c7146a&la=en&h=27&w=74&hash=A9DA3813FA54841CCA838BA211B01C35",
+      "alt": "",
+      "title": "",
+      "width": 74,
+      "height": 27,
+      "local_path": "images/img_021_9a74697cb2.png",
+      "download_status": "success",
+      "file_size": 986
+    },
+    {
+      "index": 22,
+      "src": "https://www.adp.com/-/media/adp/refresh2025/images/cro/fy25hrtrends_ctablade_v2_400w_en.png?rev=fa59813ac57b46cda94197db07f15a69&hash=533661075E719A0102975D08562CD2C6",
+      "alt": "52% of employees report feeling burned out in the past year because of their job",
+      "title": "",
+      "width": 401,
+      "height": 226,
+      "local_path": "images/img_022_579700e702.png",
+      "download_status": "success",
+      "file_size": 18379
+    },
+    {
+      "index": 23,
+      "src": "https://www.adp.com/-/media/adp/refresh2025/images/what-we-offer/images-wold-brand-checkmarks/wwo_sbs_allinonepayroll_tab1_image_620w_en.jpg?rev=ecfe4dea4e614912b1398e66ef358704&la=en&h=500&w=620&hash=930804B63537591761CF5406EEC1C8BA",
+      "alt": "Anytime, anywhere, any device. Auto taxes and forms, Flexible pay options.",
+      "title": "",
+      "width": 620,
+      "height": 500,
+      "local_path": "images/img_023_244023a7c0.jpg",
+      "download_status": "success",
+      "file_size": 38984
+    },
+    {
+      "index": 24,
+      "src": "https://www.adp.com/-/media/adp/refresh2025/images/what-we-offer/payroll-overview/payroll-1-49/wwo_sbspayroll_sidebyside3_620w_en.jpg?rev=845c4c7dd7ce43df9994df5e67d6f047&la=en&h=470&w=620&hash=5D463BA3CAE0D3B76D74A387515A3885",
+      "alt": "",
+      "title": "",
+      "width": 620,
+      "height": 470,
+      "local_path": "images/img_024_dd09404b27.jpg",
+      "download_status": "success",
+      "file_size": 46748
+    },
+    {
+      "index": 25,
+      "src": "https://www.adp.com/-/media/adp/reskin2022/images/whatweoffer/payroll/small/side_by_side_avoid_costly.jpg?rev=db241c1cd8564b838b380f089b9eefd2&la=en&h=526&w=660&hash=A643A943F339897ACAD20F57080294F5",
+      "alt": "Screenshot of notification for overdue outstanding timesheet for John Smith",
+      "title": "",
+      "width": 660,
+      "height": 526,
+      "local_path": "images/img_025_60241a05a5.jpg",
+      "download_status": "success",
+      "file_size": 36859
+    },
+    {
+      "index": 26,
+      "src": "https://www.adp.com/-/media/adp/refresh2025/images/what-we-offer/payroll-overview/payroll-1-49/sbs-switchers/g2award_ctabanner_586w_en-(1).png?rev=e31bfdc9ccc74b2db392d4b39a46309a&hash=D33A1C02E90411048BCA05A03233D3D7",
+      "alt": "RUN Powered by ADP® is #1 on G2’s Best Software Products for Small Business",
+      "title": "",
+      "width": 200,
+      "height": 233,
+      "local_path": "images/img_026_f0d1099a71.png",
+      "download_status": "success",
+      "file_size": 30163
+    },
+    {
+      "index": 27,
+      "src": "https://www.adp.com/-/media/adp/refresh2025/icons/default/adp_icon_timescheduling.svg?rev=97de4f626e144a08a87f5362b6ec10c1&la=en&hash=E06070FCE1A0D0AA1B01A37832C21A95",
+      "alt": "",
+      "title": "",
+      "width": 444,
+      "height": 424,
+      "local_path": "images/img_027_af592e2e9f.svg",
+      "download_status": "success",
+      "file_size": 36536
+    },
+    {
+      "index": 28,
+      "src": "https://www.adp.com/-/media/adp/refresh2025/icons/default/adp_icon_flexibility.svg?rev=e352e86fc00d44a0ac48db37ad33da62&la=en&hash=CB87F4D44811C2DC93E3C72BDAF684CB",
+      "alt": "",
+      "title": "",
+      "width": 451,
+      "height": 418,
+      "local_path": "images/img_028_0279c841d7.svg",
+      "download_status": "success",
+      "file_size": 33867
+    },
+    {
+      "index": 29,
+      "src": "https://www.adp.com/-/media/adp/refresh2025/icons/default/adp_icon_wagepayments.svg?rev=4f9cceb7f8174421a1e1842688b0e3e3&la=en&hash=A06ABC97D796B081C3D332C381FC86EA",
+      "alt": "",
+      "title": "",
+      "width": 457,
+      "height": 401,
+      "local_path": "images/img_029_b2fef81c81.svg",
+      "download_status": "success",
+      "file_size": 43546
+    },
+    {
+      "index": 30,
+      "src": "https://www.adp.com/-/media/adp/refresh2025/icons/default/adp_icon_healthcarebenefits.svg?rev=d0758966927c480bac0ff80b4aba7e3b&la=en&h=50&w=50&hash=A58D93B1E641A91B54BF477D3B344864",
+      "alt": "",
+      "title": "",
+      "width": 459,
+      "height": 422,
+      "local_path": "images/img_030_3ee29f5f50.svg",
+      "download_status": "success",
+      "file_size": 15617
+    },
+    {
+      "index": 31,
+      "src": "https://www.adp.com/-/media/adp/refresh2025/icons/default/adp_icon_retirement.svg?rev=881fa62977ac4177bf766a7f3932af76&la=en&hash=E3570275298BC3527715F97ECF856A3F",
+      "alt": "",
+      "title": "",
+      "width": 456,
+      "height": 441,
+      "local_path": "images/img_031_c6fb81bd4d.svg",
+      "download_status": "success",
+      "file_size": 9456
+    },
+    {
+      "index": 40,
+      "src": "https://www.adp.com/-/media/adp/redesign2018/images/resource-hub/img-hero-case-study-generic.png?rev=53ccc31423da47b8bf4a41f6662493ed&la=en&h=446&w=448&hash=145A2B0D9C02CEB6961C560A1C60DF93",
+      "alt": "",
+      "title": "",
+      "width": 448,
+      "height": 446,
+      "local_path": "images/img_040_e92df38d97.png",
+      "download_status": "success",
+      "file_size": 21801
+    },
+    {
+      "index": 43,
+      "src": "https://www.adp.com/-/media/adp/resourcehub/rh2/images/testimonial/hero/headshot-hero-graphic-united-check-cashing.png?rev=442e00f60afa4f3cb51e32352e1b3b07&la=en&h=446&w=448&hash=8CC65737C441B8AB8B67AC67BFC91779",
+      "alt": "Mark Picillo, General Manager United Check Cashing",
+      "title": "",
+      "width": 448,
+      "height": 446,
+      "local_path": "images/img_043_41aa2a7fe2.png",
+      "download_status": "success",
+      "file_size": 151461
+    },
+    {
+      "index": 49,
+      "src": "https://www.adp.com/-/media/adp/resourcehub/images/articles/payroll-checklist/payrollchecklist_resourcecard1_586w_en.jpg?rev=a54cc114383f475c9e1e2248722475b1&la=en&h=294&w=586&hash=F7AB80CA148F8CCDD018FD8EC9C82825",
+      "alt": "",
+      "title": "",
+      "width": 586,
+      "height": 294,
+      "local_path": "images/img_049_e47a59ebb9.jpg",
+      "download_status": "success",
+      "file_size": 30526
+    },
+    {
+      "index": 50,
+      "src": "https://www.adp.com/-/media/adp/resourcehub/images/articles/how-to-choose-a-payroll-provider-for-your-business/howtochooseapayrollprovider_resourcecard2_586w_en.jpg?rev=ca2d1341f5a749a8a49537217624f9b0&la=en&h=294&w=586&hash=3270A33EBB9AF3F4F756770070683B60",
+      "alt": "",
+      "title": "",
+      "width": 586,
+      "height": 294,
+      "local_path": "images/img_050_cd31ac20a3.jpg",
+      "download_status": "success",
+      "file_size": 35364
+    },
+    {
+      "index": 51,
+      "src": "https://www.adp.com/-/media/adp/resourcehub/images/articles/switching-payroll-providers/resourcecard_switchingpayrollproviders_thumbnail_586w_en.jpg?rev=3b116c2c32984feb8ca9ab27c65127b6&la=en&h=294&w=586&hash=73FB50A667B2395FF059F56FFE11060A",
+      "alt": "",
+      "title": "",
+      "width": 586,
+      "height": 294,
+      "local_path": "images/img_051_809ad58d19.jpg",
+      "download_status": "success",
+      "file_size": 44824
+    },
+    {
+      "index": 52,
+      "src": "https://www.adp.com/-/media/adp/refresh2025/images/what-we-offer/products/run/run_demomodal_480w_2x_en.png?rev=723e59a3ad0e4af4a2546495abadde76",
+      "alt": "",
+      "title": "",
+      "width": 960,
+      "height": 570,
+      "local_path": "images/img_052_5cee3777ee.png",
+      "download_status": "success",
+      "file_size": 36366
+    },
+    {
+      "index": 53,
+      "src": "https://www.adp.com/-/media/adp/reskin2022/images/whatweoffer/products/workforcenow/150-charity-offer/nurture_150charityoffer_modal_280w_en.png?rev=cf0be4210423477a9da39f19e913b58c&hash=A1D12067ED104868185B287F6B95A161",
+      "alt": "",
+      "title": "",
+      "width": 298,
+      "height": 213,
+      "local_path": "images/img_053_149bcb69f4.png",
+      "download_status": "success",
+      "file_size": 7207
+    },
+    {
+      "index": 54,
+      "src": "https://www.adp.com/-/media/adp/refresh2025/icons/white/adp_icon_timescheduling_w.svg?rev=61d0acdc2dc4473e868796d8bef84c69&hash=5111E39DEB594413BECFA9799AADFA5E",
+      "alt": "",
+      "title": "",
+      "width": 444,
+      "height": 424,
+      "local_path": "images/img_054_83c867b293.svg",
+      "download_status": "success",
+      "file_size": 36506
+    },
+    {
+      "index": 55,
+      "src": "https://www.adp.com/-/media/adp/redesign2018/ui/logo-adp-fy19.svg?rev=0769ecbf84a9412a93e2cd52b7319a13&hash=C2451A542096BF16BC40698417D5A6FD",
+      "alt": "logo",
+      "title": "",
+      "width": 300,
+      "height": 137,
+      "local_path": "images/img_055_060c8287a5.svg",
+      "download_status": "success",
+      "file_size": 1062
+    },
+    {
+      "index": 56,
+      "src": "https://www.adp.com/-/media/adp2025/ui/icn-nav-call.svg?rev=2b45138dde9b44368b7aaf34bf652ce0&hash=F82797CC6571BEA58E0596142F478AAD",
+      "alt": "",
+      "title": "",
+      "width": 12,
+      "height": 14,
+      "local_path": "images/img_056_5898644bb4.svg",
+      "download_status": "success",
+      "file_size": 2610
+    },
+    {
+      "index": 57,
+      "src": "https://www.adp.com/-/media/adp2025/ui/icn-nav-chat.svg?rev=d7c44f6f841b40e4b856fbd0d3d9baa5&hash=ED53F012A6ECBF2AA19D98B9CA076F74",
+      "alt": "",
+      "title": "",
+      "width": 16,
+      "height": 15,
+      "local_path": "images/img_057_228e6ae0fa.svg",
+      "download_status": "success",
+      "file_size": 915
+    },
+    {
+      "index": 58,
+      "src": "https://www.adp.com/-/media/adp2025/ui/icn-nav-search.svg?rev=9b682a2d54ba455085d5be82ce9e23b5&hash=B7F3B58F393A98F27F4678D1C1676DD3",
+      "alt": "",
+      "title": "",
+      "width": 13,
+      "height": 13,
+      "local_path": "images/img_058_495eb95ccb.svg",
+      "download_status": "success",
+      "file_size": 1525
+    },
+    {
+      "index": 59,
+      "src": "https://www.adp.com/-/media/adp2025/ui/icn-nav-login.svg?rev=859ed006f02f489c81e1aff184ff58ed&hash=A246F6DF5E97A375585208326F669BA7",
+      "alt": "",
+      "title": "",
+      "width": 10,
+      "height": 14,
+      "local_path": "images/img_059_712170a969.svg",
+      "download_status": "success",
+      "file_size": 906
+    },
+    {
+      "index": 60,
+      "src": "https://id.rlcdn.com/464526.gif",
+      "alt": "",
+      "title": "",
+      "width": 1,
+      "height": 1,
+      "local_path": "images/img_060_804b3417fb.gif",
+      "download_status": "success",
+      "file_size": 26
+    },
+    {
+      "index": 61,
+      "src": "https://t.co/i/adsct?bci=3&dv=Asia%2FCalcutta%26en-IN%26Google%20Inc.%26Win32%26255%261920%261080%2616%2624%261920%261080%2610%26na&eci=2&event_id=e95a6e01-71dc-43dc-ba3f-0c60d7e8898b&events=%5B%5B%22pageview%22%2C%7B%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=cc294cd0-207c-4d3c-aa20-13ccfd466d74&pt=Small%20Business%20Payroll%20Services%20%26%20Software%20%7C%20%231%20G2%20Rated%20%7C%20ADP&tw_document_href=https%3A%2F%2Fwww.adp.com%2Fwhat-we-offer%2Fpayroll%2Fpayroll-for-1-49-employees.aspx&tw_iframe_status=0&tw_order_quantity=0&tw_sale_amount=0&txn_id=nvzc9&type=javascript&version=2.3.35",
+      "alt": "",
+      "title": "",
+      "width": 1,
+      "height": 1,
+      "local_path": "images/img_061_d57d60d365.jpg",
+      "download_status": "success",
+      "file_size": 43
+    },
+    {
+      "index": 62,
+      "src": "https://analytics.twitter.com/i/adsct?bci=3&dv=Asia%2FCalcutta%26en-IN%26Google%20Inc.%26Win32%26255%261920%261080%2616%2624%261920%261080%2610%26na&eci=2&event_id=e95a6e01-71dc-43dc-ba3f-0c60d7e8898b&events=%5B%5B%22pageview%22%2C%7B%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=cc294cd0-207c-4d3c-aa20-13ccfd466d74&pt=Small%20Business%20Payroll%20Services%20%26%20Software%20%7C%20%231%20G2%20Rated%20%7C%20ADP&tw_document_href=https%3A%2F%2Fwww.adp.com%2Fwhat-we-offer%2Fpayroll%2Fpayroll-for-1-49-employees.aspx&tw_iframe_status=0&tw_order_quantity=0&tw_sale_amount=0&txn_id=nvzc9&type=javascript&version=2.3.35",
+      "alt": "",
+      "title": "",
+      "width": 1,
+      "height": 1,
+      "local_path": "images/img_062_95dfd3fcc0.jpg",
+      "download_status": "success",
+      "file_size": 43
+    },
+    {
+      "index": 63,
+      "src": "https://bat.bing.com/action/0?ti=5105257&Ver=2&mid=c7e715c0-ab89-4b6a-a8c0-f9662dfd8338&bo=1&sid=861f80c0ead611f0a3b44965520a1528&vid=861f7560ead611f091da7987cf21d5a0&vids=0&msclkid=N&uach=pv%3D10.0&pi=0&lg=en-IN&sw=1920&sh=1080&sc=24&nwd=1&tl=Small%20Business%20Payroll%20Services%20%26%20Software%20%7C%20%231%20G2%20Rated%20%7C%20ADP&kw=small%20business%20payroll,payroll%20services%20for%20small%20business,%20payroll%20companies%20for%20small%20business&p=https%3A%2F%2Fwww.adp.com%2Fwhat-we-offer%2Fpayroll%2Fpayroll-for-1-49-employees.aspx&r=&lt=2962&mtp=10&evt=pageLoad&sv=2&cdb=ARoR&rn=900740",
+      "alt": "",
+      "title": "",
+      "width": null,
+      "height": null,
+      "local_path": "images/img_063_9f50aed8e5.jpg",
+      "download_status": "success",
+      "file_size": 0
+    },
+    {
+      "index": 48,
+      "src": "https://www.adp.com/-/media/adp2025/ui/icn-carousel-arrow-left.svg",
+      "type": "background-image",
+      "local_path": "images/img_048_5795385610.svg",
+      "download_status": "success",
+      "file_size": 980
+    },
+    {
+      "index": 49,
+      "src": "https://www.adp.com/-/media/adp2025/ui/icn-carousel-arrow-right.svg",
+      "type": "background-image",
+      "local_path": "images/img_049_61772523cc.svg",
+      "download_status": "success",
+      "file_size": 942
+    },
+    {
+      "index": 50,
+      "src": "https://www.adp.com/-/media/adp2025/ui/icn-close-red.svg",
+      "type": "background-image",
+      "local_path": "images/img_050_1bc93e769b.svg",
+      "download_status": "success",
+      "file_size": 582
+    },
+    {
+      "index": 51,
+      "src": "https://www.adp.com/-/media/adp2025/ui/icn-carat-down-red.svg",
+      "type": "background-image",
+      "local_path": "images/img_051_8e2d1e5197.svg",
+      "download_status": "success",
+      "file_size": 239
+    },
+    {
+      "index": 52,
+      "src": "https://www.adp.com/-/media/adp/refresh2025/images/cro/1861_1920w_en.jpg",
+      "type": "background-image",
+      "local_path": "images/img_052_f18e0513cb.jpg",
+      "download_status": "success",
+      "file_size": 93657
+    },
+    {
+      "index": 53,
+      "src": "https://www.adp.com/-/media/adp2025/ui/icn-close-white.svg",
+      "type": "background-image",
+      "local_path": "images/img_053_aeb0759357.svg",
+      "download_status": "success",
+      "file_size": 578
+    },
+    {
+      "index": 54,
+      "src": "https://www.adp.com/-/media/adp2025/ui/chat-alt-adp-logo.png",
+      "type": "background-image",
+      "local_path": "images/img_054_40115cc224.png",
+      "download_status": "success",
+      "file_size": 2746
+    }
+  ],
+  "links": [
+    {
+      "index": 0,
+      "href": "https://www.adp.com/about-adp/data-privacy/adp-cookie-privacy-statement.aspx",
+      "text": "Cookie Privacy Statement",
+      "title": "Click here to learn more. This link opens in a new window",
+      "isExternal": false,
+      "isAnchor": false
+    },
+    {
+      "index": 1,
+      "href": "https://www.adp.com/what-we-offer/payroll/payroll-for-1-49-employees.aspx#main-content",
+      "text": "Skip to main content",
+      "title": "",
+      "isExternal": false,
+      "isAnchor": false
+    },
+    {
+      "index": 2,
+      "href": "https://www.adp.com/what-we-offer/payroll/payroll-for-1-49-employees.aspx#",
+      "text": "Get Pricing",
+      "title": "",
+      "isExternal": false,
+      "isAnchor": false
+    },
+    {
+      "index": 3,
+      "href": "https://www.adp.com/",
+      "text": "",
+      "title": "",
+      "isExternal": false,
+      "isAnchor": false
+    },
+    {
+      "index": 4,
+      "href": "https://www.adp.com/what-we-offer.aspx",
+      "text": "What We Offer",
+      "title": "",
+      "isExternal": false,
+      "isAnchor": false
+    },
+    {
+      "index": 6,
+      "href": "https://www.adp.com/what-we-offer/payroll.aspx",
+      "text": "Payroll",
+      "title": "",
+      "isExternal": false,
+      "isAnchor": false
+    },
+    {
+      "index": 7,
+      "href": "https://www.adp.com/what-we-offer/payroll/payroll-for-1-49-employees.aspx",
+      "text": "Small Business Payroll (1-49 Employees)",
+      "title": "",
+      "isExternal": false,
+      "isAnchor": false
+    },
+    {
+      "index": 8,
+      "href": "https://www.adp.com/what-we-offer/payroll/payroll-for-50-1000-plus-employees.aspx",
+      "text": "Midsized to Enterprise Payroll (50-1,000+ Employees)",
+      "title": "",
+      "isExternal": false,
+      "isAnchor": false
+    },
+    {
+      "index": 9,
+      "href": "https://www.adp.com/what-we-offer/payroll/payroll-for-1-49-employees/payroll-packages.aspx?segmenter-force=yes",
+      "text": "Compare Packages\n            Find the package that's right for your business.",
+      "title": "",
+      "isExternal": false,
+      "isAnchor": false
+    },
+    {
+      "index": 10,
+      "href": "https://www.adp.com/what-we-offer/time-and-attendance.aspx",
+      "text": "Time & Attendance",
+      "title": "",
+      "isExternal": false,
+      "isAnchor": false
+    },
+    {
+      "index": 11,
+      "href": "https://www.adp.com/what-we-offer/talent.aspx",
+      "text": "Talent",
+      "title": "",
+      "isExternal": false,
+      "isAnchor": false
+    },
+    {
+      "index": 12,
+      "href": "https://www.adp.com/what-we-offer/benefits.aspx",
+      "text": "Benefits & Insurance",
+      "title": "",
+      "isExternal": false,
+      "isAnchor": false
+    },
+    {
+      "index": 13,
+      "href": "https://www.adp.com/what-we-offer/hr-outsourcing-and-peo/professional-employer-organization.aspx",
+      "text": "PEO & HR Outsourcing",
+      "title": "",
+      "isExternal": false,
+      "isAnchor": false
+    },
+    {
+      "index": 14,
+      "href": "https://www.adp.com/what-we-offer/products/adp-smartcompliance.aspx",
+      "text": "Compliance Services",
+      "title": "",
+      "isExternal": false,
+      "isAnchor": false
+    },
+    {
+      "index": 15,
+      "href": "https://www.adp.com/what-we-offer/ai-solutions.aspx",
+      "text": "AI Capabilities",
+      "title": "",
+      "isExternal": false,
+      "isAnchor": false
+    },
+    {
+      "index": 16,
+      "href": "https://www.adp.com/what-we-offer/integrations.aspx",
+      "text": "Integrations",
+      "title": "",
+      "isExternal": false,
+      "isAnchor": false
+    },
+    {
+      "index": 17,
+      "href": "https://www.adp.com/what-we-offer/marketplace.aspx",
+      "text": "App Marketplace",
+      "title": "",
+      "isExternal": false,
+      "isAnchor": false
+    },
+    {
+      "index": 18,
+      "href": "https://www.adp.com/what-we-offer/products.aspx",
+      "text": "Products by Name",
+      "title": "",
+      "isExternal": false,
+      "isAnchor": false
+    },
+    {
+      "index": 28,
+      "href": "https://www.adp.com/what-we-offer/time-and-attendance/workforce-management.aspx",
+      "text": "Workforce Management",
+      "title": "",
+      "isExternal": false,
+      "isAnchor": false
+    },
+    {
+      "index": 32,
+      "href": "https://www.adp.com/what-we-offer/talent/talent-acquisition.aspx",
+      "text": "Recruiting & Hiring",
+      "title": "",
+      "isExternal": false,
+      "isAnchor": false
+    },
+    {
+      "index": 33,
+      "href": "https://www.adp.com/what-we-offer/talent/talent-management.aspx",
+      "text": "Talent Management & Activation",
+      "title": "",
+      "isExternal": false,
+      "isAnchor": false
+    },
+    {
+      "index": 34,
+      "href": "https://www.adp.com/what-we-offer/hr-services/employee-experience.aspx",
+      "text": "Employee Experience",
+      "title": "",
+      "isExternal": false,
+      "isAnchor": false
+    },
+    {
+      "index": 38,
+      "href": "https://www.adp.com/what-we-offer/benefits/benefits-administration.aspx",
+      "text": "Benefits Administration",
+      "title": "",
+      "isExternal": false,
+      "isAnchor": false
+    },
+    {
+      "index": 39,
+      "href": "https://www.adp.com/what-we-offer/benefits/retirement.aspx",
+      "text": "Retirement Plans",
+      "title": "",
+      "isExternal": false,
+      "isAnchor": false
+    },
+    {
+      "index": 40,
+      "href": "https://www.adp.com/what-we-offer/benefits/group-health-insurance.aspx",
+      "text": "Group Health Insurance",
+      "title": "",
+      "isExternal": false,
+      "isAnchor": false
+    },
+    {
+      "index": 41,
+      "href": "https://www.adp.com/what-we-offer/benefits/business-insurance.aspx",
+      "text": "Business Insurance",
+      "title": "",
+      "isExternal": false,
+      "isAnchor": false
+    },
+    {
+      "index": 42,
+      "href": "https://www.adp.com/what-we-offer/benefits/business-insurance/workers-compensation.aspx",
+      "text": "Workers’ Compensation Insurance",
+      "title": "",
+      "isExternal": false,
+      "isAnchor": false
+    },
+    {
+      "index": 45,
+      "href": "https://www.adp.com/what-we-offer/hr-outsourcing-and-peo/outsource-hr-processes.aspx",
+      "text": "HR Outsourcing",
+      "title": "",
+      "isExternal": false,
+      "isAnchor": false
+    },
+    {
+      "index": 49,
+      "href": "https://www.adp.com/what-we-offer/products/adp-smartcompliance/employment-tax-credits.aspx",
+      "text": "Business Tax Credits",
+      "title": "",
+      "isExternal": false,
+      "isAnchor": false
+    },
+    {
+      "index": 50,
+      "href": "https://www.adp.com/what-we-offer/products/adp-smartcompliance/wage-payments.aspx",
+      "text": "Payment Solutions",
+      "title": "",
+      "isExternal": false,
+      "isAnchor": false
+    },
+    {
+      "index": 51,
+      "href": "https://www.adp.com/what-we-offer/products/adp-smartcompliance/employment-tax.aspx",
+      "text": "Payroll Taxes",
+      "title": "",
+      "isExternal": false,
+      "isAnchor": false
+    },
+    {
+      "index": 52,
+      "href": "https://www.adp.com/what-we-offer/products/adp-smartcompliance/health-compliance.aspx",
+      "text": "Health Compliance",
+      "title": "",
+      "isExternal": false,
+      "isAnchor": false
+    },
+    {
+      "index": 53,
+      "href": "https://www.adp.com/what-we-offer/products/adp-smartcompliance/wage-garnishment.aspx",
+      "text": "Wage Garnishment",
+      "title": "",
+      "isExternal": false,
+      "isAnchor": false
+    },
+    {
+      "index": 54,
+      "href": "https://www.adp.com/what-we-offer/products/adp-smartcompliance/integrations.aspx",
+      "text": "Compliance Integrations",
+      "title": "",
+      "isExternal": false,
+      "isAnchor": false
+    },
+    {
+      "index": 55,
+      "href": "https://www.adp.com/what-we-offer/products/adp-smartcompliance/unemployment-claims.aspx",
+      "text": "Unemployment Claims",
+      "title": "",
+      "isExternal": false,
+      "isAnchor": false
+    },
+    {
+      "index": 56,
+      "href": "https://www.adp.com/what-we-offer/products/adp-smartcompliance/employment-verification.aspx",
+      "text": "Employment Verification",
+      "title": "",
+      "isExternal": false,
+      "isAnchor": false
+    },
+    {
+      "index": 57,
+      "href": "https://www.adp.com/what-we-offer/products/workmarket.aspx",
+      "text": "Contractor Management",
+      "title": "",
+      "isExternal": false,
+      "isAnchor": false
+    },
+    {
+      "index": 61,
+      "href": "https://www.adp.com/what-we-offer/ai-solutions/ai-capabilities.aspx",
+      "text": "AI Capabilities",
+      "title": "",
+      "isExternal": false,
+      "isAnchor": false
+    },
+    {
+      "index": 62,
+      "href": "https://www.adp.com/what-we-offer/ai-solutions/responsible-ai.aspx",
+      "text": "Responsible AI",
+      "title": "",
+      "isExternal": false,
+      "isAnchor": false
+    },
+    {
+      "index": 67,
+      "href": "https://www.adp.com/what-we-offer/integrations/api-central.aspx",
+      "text": "Custom Integrations",
+      "title": "",
+      "isExternal": false,
+      "isAnchor": false
+    },
+    {
+      "index": 71,
+      "href": "https://www.adp.com/what-we-offer/products/run-powered-by-adp.aspx",
+      "text": "RUN Powered by ADP®",
+      "title": "",
+      "isExternal": false,
+      "isAnchor": false
+    },
+    {
+      "index": 72,
+      "href": "https://www.adp.com/what-we-offer/products/totalsource-peo.aspx",
+      "text": "ADP TotalSource®",
+      "title": "",
+      "isExternal": false,
+      "isAnchor": false
+    },
+    {
+      "index": 73,
+      "href": "https://www.adp.com/what-we-offer/products/adp-workforce-now.aspx",
+      "text": "ADP Workforce Now®",
+      "title": "",
+      "isExternal": false,
+      "isAnchor": false
+    },
+    {
+      "index": 74,
+      "href": "https://www.adp.com/what-we-offer/products/lyric.aspx",
+      "text": "ADP Lyric HCM",
+      "title": "",
+      "isExternal": false,
+      "isAnchor": false
+    },
+    {
+      "index": 75,
+      "href": "https://www.adp.com/what-we-offer/products/adp-comprehensive-services.aspx",
+      "text": "ADP® Comprehensive Services",
+      "title": "",
+      "isExternal": false,
+      "isAnchor": false
+    },
+    {
+      "index": 77,
+      "href": "https://www.adp.com/what-we-offer/products/wisely-by-adp.aspx",
+      "text": "Wisely® by ADP",
+      "title": "",
+      "isExternal": false,
+      "isAnchor": false
+    },
+    {
+      "index": 78,
+      "href": "https://www.adp.com/what-we-offer/products/adp-global-payroll.aspx",
+      "text": "ADP® Global Payroll",
+      "title": "",
+      "isExternal": false,
+      "isAnchor": false
+    },
+    {
+      "index": 79,
+      "href": "https://www.adp.com/what-we-offer/products/adp-datacloud.aspx",
+      "text": "ADP® DataCloud",
+      "title": "",
+      "isExternal": false,
+      "isAnchor": false
+    },
+    {
+      "index": 80,
+      "href": "https://www.adp.com/who-we-serve.aspx",
+      "text": "Who We Serve",
+      "title": "",
+      "isExternal": false,
+      "isAnchor": false
+    },
+    {
+      "index": 82,
+      "href": "https://www.adp.com/who-we-serve/by-business-size/1-49-employees.aspx",
+      "text": "Small Business",
+      "title": "",
+      "isExternal": false,
+      "isAnchor": false
+    },
+    {
+      "index": 84,
+      "href": "https://www.adp.com/who-we-serve/by-business-size/50-999-employees.aspx",
+      "text": "Midsized Business",
+      "title": "",
+      "isExternal": false,
+      "isAnchor": false
+    },
+    {
+      "index": 86,
+      "href": "https://www.adp.com/who-we-serve/by-business-size/1000-employees.aspx",
+      "text": "Large Business",
+      "title": "",
+      "isExternal": false,
+      "isAnchor": false
+    },
+    {
+      "index": 88,
+      "href": "https://www.adp.com/who-we-serve/by-business-size/global.aspx",
+      "text": "Global HCM",
+      "title": "",
+      "isExternal": false,
+      "isAnchor": false
+    },
+    {
+      "index": 90,
+      "href": "https://www.adp.com/who-we-serve/by-business-size.aspx",
+      "text": "Business Size",
+      "title": "",
+      "isExternal": false,
+      "isAnchor": false
+    },
+    {
+      "index": 96,
+      "href": "https://www.adp.com/who-we-serve/by-industry.aspx",
+      "text": "Industries",
+      "title": "",
+      "isExternal": false,
+      "isAnchor": false
+    },
+    {
+      "index": 99,
+      "href": "https://www.adp.com/who-we-serve/by-industry/hospitality-restaurant-foodservice.aspx",
+      "text": "Restaurant / Hospitality",
+      "title": "",
+      "isExternal": false,
+      "isAnchor": false
+    },
+    {
+      "index": 100,
+      "href": "https://www.adp.com/who-we-serve/by-industry/manufacturing.aspx",
+      "text": "Manufacturing",
+      "title": "",
+      "isExternal": false,
+      "isAnchor": false
+    },
+    {
+      "index": 101,
+      "href": "https://www.adp.com/who-we-serve/by-industry/professional-technical-services.aspx",
+      "text": "Professional & Technical Services",
+      "title": "",
+      "isExternal": false,
+      "isAnchor": false
+    },
+    {
+      "index": 102,
+      "href": "https://www.adp.com/who-we-serve/by-industry/construction.aspx",
+      "text": "Construction",
+      "title": "",
+      "isExternal": false,
+      "isAnchor": false
+    },
+    {
+      "index": 103,
+      "href": "https://www.adp.com/who-we-serve/by-industry/financial-services.aspx",
+      "text": "Financial Services",
+      "title": "",
+      "isExternal": false,
+      "isAnchor": false
+    },
+    {
+      "index": 104,
+      "href": "https://www.adp.com/who-we-serve/by-industry/retail.aspx",
+      "text": "Retail",
+      "title": "",
+      "isExternal": false,
+      "isAnchor": false
+    },
+    {
+      "index": 105,
+      "href": "https://www.adp.com/who-we-serve/by-industry/healthcare.aspx",
+      "text": "Healthcare",
+      "title": "",
+      "isExternal": false,
+      "isAnchor": false
+    },
+    {
+      "index": 106,
+      "href": "https://www.adp.com/who-we-serve/by-industry/government-education.aspx",
+      "text": "Government / Education",
+      "title": "",
+      "isExternal": false,
+      "isAnchor": false
+    },
+    {
+      "index": 107,
+      "href": "https://www.adp.com/who-we-serve/by-industry/nonprofit-social-services.aspx",
+      "text": "Nonproﬁt / Social Services",
+      "title": "",
+      "isExternal": false,
+      "isAnchor": false
+    },
+    {
+      "index": 108,
+      "href": "https://www.adp.com/who-we-serve/by-partner.aspx",
+      "text": "Partners",
+      "title": "",
+      "isExternal": false,
+      "isAnchor": false
+    },
+    {
+      "index": 111,
+      "href": "https://www.adp.com/who-we-serve/by-partner/accountants.aspx",
+      "text": "Accountants",
+      "title": "",
+      "isExternal": false,
+      "isAnchor": false
+    },
+    {
+      "index": 112,
+      "href": "https://www.adp.com/who-we-serve/by-partner/brokers.aspx",
+      "text": "Brokers",
+      "title": "",
+      "isExternal": false,
+      "isAnchor": false
+    },
+    {
+      "index": 113,
+      "href": "https://www.adp.com/who-we-serve/by-partner/financial-advisors.aspx",
+      "text": "Financial Advisors",
+      "title": "",
+      "isExternal": false,
+      "isAnchor": false
+    },
+    {
+      "index": 114,
+      "href": "https://www.adp.com/who-we-serve/by-partner/private-equity.aspx",
+      "text": "Private Equity",
+      "title": "",
+      "isExternal": false,
+      "isAnchor": false
+    },
+    {
+      "index": 115,
+      "href": "https://www.adp.com/who-we-serve/by-partner/franchise-alliances.aspx",
+      "text": "Franchises",
+      "title": "",
+      "isExternal": false,
+      "isAnchor": false
+    },
+    {
+      "index": 116,
+      "href": "https://www.adp.com/who-we-serve/by-partner/member-organizations.aspx",
+      "text": "Member Organizations",
+      "title": "",
+      "isExternal": false,
+      "isAnchor": false
+    },
+    {
+      "index": 117,
+      "href": "https://www.adp.com/who-we-serve/by-partner/banking-professionals.aspx",
+      "text": "Banking Professionals",
+      "title": "",
+      "isExternal": false,
+      "isAnchor": false
+    },
+    {
+      "index": 118,
+      "href": "https://www.adp.com/who-we-serve/by-partner/software-providers-development.aspx",
+      "text": "Software Providers",
+      "title": "",
+      "isExternal": false,
+      "isAnchor": false
+    },
+    {
+      "index": 119,
+      "href": "https://www.adp.com/who-we-serve/by-partner/enterprise-resource-planning.aspx",
+      "text": "ERPs",
+      "title": "",
+      "isExternal": false,
+      "isAnchor": false
+    },
+    {
+      "index": 120,
+      "href": "https://www.adp.com/what-we-offer/products/adp-embedded-payroll.aspx",
+      "text": "Embedded Payroll",
+      "title": "",
+      "isExternal": false,
+      "isAnchor": false
+    },
+    {
+      "index": 121,
+      "href": "https://www.adp.com/how-we-differ.aspx",
+      "text": "Why ADP",
+      "title": "",
+      "isExternal": false,
+      "isAnchor": false
+    },
+    {
+      "index": 122,
+      "href": "https://www.adp.com/resources.aspx",
+      "text": "Resources",
+      "title": "",
+      "isExternal": false,
+      "isAnchor": false
+    },
+    {
+      "index": 124,
+      "href": "https://www.adp.com/resources/small-business.aspx",
+      "text": "Small Business",
+      "title": "",
+      "isExternal": false,
+      "isAnchor": false
+    },
+    {
+      "index": 126,
+      "href": "https://www.adpri.org/today-at-work",
+      "text": "Discover the latest Today at Work insights from ADP Research",
+      "title": "",
+      "isExternal": true,
+      "isAnchor": false
+    },
+    {
+      "index": 127,
+      "href": "https://www.adp.com/resources/big-beautiful-bill.aspx",
+      "text": "Your guide to the One Big Beautiful Bill Act",
+      "title": "",
+      "isExternal": false,
+      "isAnchor": false
+    },
+    {
+      "index": 130,
+      "href": "https://www.adp.com/resources/small-business/paying-people.aspx",
+      "text": "Paying Your People",
+      "title": "",
+      "isExternal": false,
+      "isAnchor": false
+    },
+    {
+      "index": 131,
+      "href": "https://www.adp.com/resources/small-business/compliance.aspx",
+      "text": "Maintaining Compliance",
+      "title": "",
+      "isExternal": false,
+      "isAnchor": false
+    },
+    {
+      "index": 132,
+      "href": "https://www.adp.com/resources/small-business/recruiting-hiring.aspx",
+      "text": "Recruiting & Hiring",
+      "title": "",
+      "isExternal": false,
+      "isAnchor": false
+    },
+    {
+      "index": 133,
+      "href": "https://www.adp.com/resources/small-business/outsourcing.aspx",
+      "text": "Outsourcing HR",
+      "title": "",
+      "isExternal": false,
+      "isAnchor": false
+    },
+    {
+      "index": 134,
+      "href": "https://www.adp.com/resources/midsized-enterprise.aspx",
+      "text": "Midsized & Enterprise Business",
+      "title": "",
+      "isExternal": false,
+      "isAnchor": false
+    },
+    {
+      "index": 137,
+      "href": "https://www.adp.com/resources/midsized-enterprise/human-capital-management.aspx",
+      "text": "Evaluating HCM",
+      "title": "",
+      "isExternal": false,
+      "isAnchor": false
+    },
+    {
+      "index": 138,
+      "href": "https://www.adp.com/resources/midsized-enterprise/paying-people.aspx",
+      "text": "Paying Your People",
+      "title": "",
+      "isExternal": false,
+      "isAnchor": false
+    },
+    {
+      "index": 139,
+      "href": "https://www.adp.com/resources/midsized-enterprise/compliance.aspx",
+      "text": "Maintaining Compliance",
+      "title": "",
+      "isExternal": false,
+      "isAnchor": false
+    },
+    {
+      "index": 140,
+      "href": "https://www.adp.com/resources/midsized-enterprise/workforce-management.aspx",
+      "text": "Managing Your Workforce",
+      "title": "",
+      "isExternal": false,
+      "isAnchor": false
+    },
+    {
+      "index": 142,
+      "href": "https://www.adp.com/resources/diversity-equity-and-inclusion.aspx",
+      "text": "Diversity, Equity & Inclusion Toolkit",
+      "title": "",
+      "isExternal": false,
+      "isAnchor": false
+    },
+    {
+      "index": 143,
+      "href": "https://www.adp.com/resources/tools.aspx",
+      "text": "Tools",
+      "title": "",
+      "isExternal": false,
+      "isAnchor": false
+    },
+    {
+      "index": 146,
+      "href": "https://www.adp.com/resources/tools/calculators.aspx",
+      "text": "Calculators",
+      "title": "",
+      "isExternal": false,
+      "isAnchor": false
+    },
+    {
+      "index": 147,
+      "href": "https://www.adp.com/resources/tools/tax-guides-and-forms.aspx",
+      "text": "Tax Guides & Forms",
+      "title": "",
+      "isExternal": false,
+      "isAnchor": false
+    },
+    {
+      "index": 148,
+      "href": "https://www.adp.com/resources/tools/glossary.aspx",
+      "text": "Glossary",
+      "title": "",
+      "isExternal": false,
+      "isAnchor": false
+    },
+    {
+      "index": 149,
+      "href": "https://www.adp.com/resources/events.aspx",
+      "text": "Webinars & Events",
+      "title": "",
+      "isExternal": false,
+      "isAnchor": false
+    },
+    {
+      "index": 151,
+      "href": "https://www.adp.com/resources/what-others-say/testimonials.aspx#sort=%40updated%20descending",
+      "text": "Testimonials",
+      "title": "",
+      "isExternal": false,
+      "isAnchor": false
+    },
+    {
+      "index": 153,
+      "href": "https://www.adp.com/resources/demos.aspx",
+      "text": "Demos",
+      "title": "",
+      "isExternal": false,
+      "isAnchor": false
+    },
+    {
+      "index": 155,
+      "href": "https://www.adp.com/spark.aspx",
+      "text": "SPARK Blog",
+      "title": "",
+      "isExternal": false,
+      "isAnchor": false
+    },
+    {
+      "index": 157,
+      "href": "https://www.adpri.org/",
+      "text": "ADP Research",
+      "title": "",
+      "isExternal": true,
+      "isAnchor": false
+    },
+    {
+      "index": 159,
+      "href": "https://www.adp.com/resources/what-others-say.aspx",
+      "text": "What Others Say",
+      "title": "",
+      "isExternal": false,
+      "isAnchor": false
+    },
+    {
+      "index": 162,
+      "href": "https://www.adp.com/resources/what-others-say/testimonials.aspx",
+      "text": "Testimonials",
+      "title": "",
+      "isExternal": false,
+      "isAnchor": false
+    },
+    {
+      "index": 163,
+      "href": "https://www.adp.com/resources/what-others-say/reviews.aspx",
+      "text": "Product Reviews",
+      "title": "",
+      "isExternal": false,
+      "isAnchor": false
+    },
+    {
+      "index": 165,
+      "href": "https://www.adp.com/resources/what-others-say/analyst-reports.aspx",
+      "text": "Analyst Reports",
+      "title": "",
+      "isExternal": false,
+      "isAnchor": false
+    },
+    {
+      "index": 166,
+      "href": "https://www.adp.com/about-adp.aspx",
+      "text": "About",
+      "title": "",
+      "isExternal": false,
+      "isAnchor": false
+    },
+    {
+      "index": 172,
+      "href": "https://www.adp.com/about-adp/leadership.aspx",
+      "text": "Leadership",
+      "title": "",
+      "isExternal": false,
+      "isAnchor": false
+    },
+    {
+      "index": 173,
+      "href": "https://www.adp.com/about-adp/corporate-social-responsibility.aspx",
+      "text": "Corporate Responsibility",
+      "title": "",
+      "isExternal": false,
+      "isAnchor": false
+    },
+    {
+      "index": 174,
+      "href": "https://www.adp.com/about-adp/awards-and-recognition.aspx",
+      "text": "Awards & Recognition",
+      "title": "",
+      "isExternal": false,
+      "isAnchor": false
+    },
+    {
+      "index": 175,
+      "href": "https://www.adp.com/about-adp/ambassadors.aspx",
+      "text": "Sponsorships",
+      "title": "",
+      "isExternal": false,
+      "isAnchor": false
+    },
+    {
+      "index": 176,
+      "href": "https://www.adp.com/about-adp/data-security.aspx",
+      "text": "Data Security",
+      "title": "",
+      "isExternal": false,
+      "isAnchor": false
+    },
+    {
+      "index": 177,
+      "href": "https://www.adp.com/about-adp/data-privacy.aspx",
+      "text": "Data Privacy",
+      "title": "",
+      "isExternal": false,
+      "isAnchor": false
+    },
+    {
+      "index": 178,
+      "href": "https://ventures.adp.com/",
+      "text": "ADP Ventures",
+      "title": "",
+      "isExternal": true,
+      "isAnchor": false
+    },
+    {
+      "index": 181,
+      "href": "https://www.adp.com/worldwide-locations.aspx",
+      "text": "Worldwide Locations",
+      "title": "",
+      "isExternal": false,
+      "isAnchor": false
+    },
+    {
+      "index": 183,
+      "href": "https://jobs.adp.com/?rb=ADP_COM",
+      "text": "Careers",
+      "title": "",
+      "isExternal": true,
+      "isAnchor": false
+    },
+    {
+      "index": 185,
+      "href": "https://tech.adp.com/",
+      "text": "Tech Careers",
+      "title": "",
+      "isExternal": true,
+      "isAnchor": false
+    },
+    {
+      "index": 186,
+      "href": "https://investors.adp.com/",
+      "text": "Investors",
+      "title": "",
+      "isExternal": true,
+      "isAnchor": false
+    },
+    {
+      "index": 187,
+      "href": "https://mediacenter.adp.com/",
+      "text": "Media",
+      "title": "",
+      "isExternal": true,
+      "isAnchor": false
+    },
+    {
+      "index": 188,
+      "href": "https://www.adp.com/contact-us/customer-service.aspx",
+      "text": "Support",
+      "title": "",
+      "isExternal": false,
+      "isAnchor": false
+    },
+    {
+      "index": 189,
+      "href": "https://login.adp.com/welcome",
+      "text": "Sign In",
+      "title": "",
+      "isExternal": true,
+      "isAnchor": false
+    },
+    {
+      "index": 191,
+      "href": "https://signin.adp.com/",
+      "text": "Sign In",
+      "title": "",
+      "isExternal": true,
+      "isAnchor": false
+    },
+    {
+      "index": 193,
+      "href": "https://www.adp.com/what-we-offer/payroll/payroll-for-1-49-employees/payroll-packages.aspx",
+      "text": "Payroll Packages",
+      "title": "",
+      "isExternal": false,
+      "isAnchor": false
+    },
+    {
+      "index": 194,
+      "href": "https://www.adp.com/what-we-offer/payroll/payroll-for-1-49-employees/switching-to-adp.aspx",
+      "text": "Switching to ADP",
+      "title": "",
+      "isExternal": false,
+      "isAnchor": false
+    },
+    {
+      "index": 195,
+      "href": "https://www.adp.com/what-we-offer/payroll/payroll-for-one-employee.aspx",
+      "text": "Payroll for One",
+      "title": "",
+      "isExternal": false,
+      "isAnchor": false
+    },
+    {
+      "index": 197,
+      "href": "tel:+18337350048",
+      "text": "833-735-0048",
+      "title": "",
+      "isExternal": true,
+      "isAnchor": false
+    },
+    {
+      "index": 199,
+      "href": "https://www.adp.com/terms/6-month-offer-terms-sbs.aspx",
+      "text": "See terms & conditions",
+      "title": "",
+      "isExternal": false,
+      "isAnchor": false
+    },
+    {
+      "index": 202,
+      "href": "https://www.youtube-nocookie.com/embed/nE2Owey04cs?amp;rel=0",
+      "text": "Watch Now",
+      "title": "",
+      "isExternal": true,
+      "isAnchor": false
+    },
+    {
+      "index": 205,
+      "href": "https://www.adp.com/privacy.aspx",
+      "text": "Privacy Statement",
+      "title": "",
+      "isExternal": false,
+      "isAnchor": false
+    },
+    {
+      "index": 206,
+      "href": "https://www.adp.com/legal.aspx",
+      "text": "Terms of Use",
+      "title": "",
+      "isExternal": false,
+      "isAnchor": false
+    },
+    {
+      "index": 213,
+      "href": "https://www.adp.com/what-we-offer/payroll/payroll-for-1-49-employees.aspx#tab-bffa0b1a-71f5-4d85-b852-e641fd402175-0",
+      "text": "Payroll & Tax Filing",
+      "title": "",
+      "isExternal": false,
+      "isAnchor": false
+    },
+    {
+      "index": 214,
+      "href": "https://www.adp.com/what-we-offer/payroll/payroll-for-1-49-employees.aspx#tab-bffa0b1a-71f5-4d85-b852-e641fd402175-1",
+      "text": "Service & Support",
+      "title": "",
+      "isExternal": false,
+      "isAnchor": false
+    },
+    {
+      "index": 215,
+      "href": "https://www.adp.com/what-we-offer/payroll/payroll-for-1-49-employees.aspx#tab-bffa0b1a-71f5-4d85-b852-e641fd402175-2",
+      "text": "Confidence & Compliance",
+      "title": "",
+      "isExternal": false,
+      "isAnchor": false
+    },
+    {
+      "index": 228,
+      "href": "https://www.adp.com/what-we-offer/products/clover.aspx",
+      "text": "",
+      "title": "",
+      "isExternal": false,
+      "isAnchor": false
+    },
+    {
+      "index": 242,
+      "href": "https://www.youtube-nocookie.com/embed/1BG7ZSf5Eys?amp;rel=0&autoplay=0&hd=1",
+      "text": "",
+      "title": "",
+      "isExternal": true,
+      "isAnchor": false
+    },
+    {
+      "index": 243,
+      "href": "https://www.youtube-nocookie.com/embed/Q3Rx3398ixM?amp;rel=0&autoplay=0&hd=1",
+      "text": "",
+      "title": "",
+      "isExternal": true,
+      "isAnchor": false
+    },
+    {
+      "index": 244,
+      "href": "https://www.adp.com/resources/what-others-say/testimonials/r/reliability-realized-switching-united-check-cashing.aspx",
+      "text": "",
+      "title": "",
+      "isExternal": false,
+      "isAnchor": false
+    },
+    {
+      "index": 248,
+      "href": "https://www.adp.com/resources/search-results.aspx#sort=relevancy&f:@facetsegmentgroupbusinesssiz122xe=[Under%2049%20Employees]&f:@facetsegmentgrouprhresourceassettype=[Case%20Study]",
+      "text": "",
+      "title": "",
+      "isExternal": false,
+      "isAnchor": false
+    },
+    {
+      "index": 249,
+      "href": "https://www.adp.com/resources/articles-and-insights/articles/p/payroll-checklist.aspx?referrer={58E166DC-9A2C-4B78-895F-C7EE450BA7FF}",
+      "text": "",
+      "title": "",
+      "isExternal": false,
+      "isAnchor": false
+    },
+    {
+      "index": 250,
+      "href": "https://www.adp.com/resources/articles-and-insights/articles/c/choosing-the-right-payroll-provider-for-your-business.aspx?referrer={58E166DC-9A2C-4B78-895F-C7EE450BA7FF}",
+      "text": "",
+      "title": "",
+      "isExternal": false,
+      "isAnchor": false
+    },
+    {
+      "index": 251,
+      "href": "https://www.adp.com/resources/articles-and-insights/articles/s/switching-payroll-providers.aspx?referrer={58E166DC-9A2C-4B78-895F-C7EE450BA7FF}",
+      "text": "",
+      "title": "",
+      "isExternal": false,
+      "isAnchor": false
+    },
+    {
+      "index": 268,
+      "href": "https://www.adp.com/terms/charity-gift.aspx",
+      "text": "terms & conditions",
+      "title": "",
+      "isExternal": false,
+      "isAnchor": false
+    },
+    {
+      "index": 280,
+      "href": "https://www.adp.com/what-we-offer/hr-services.aspx",
+      "text": "HR Services",
+      "title": "",
+      "isExternal": false,
+      "isAnchor": false
+    },
+    {
+      "index": 281,
+      "href": "https://www.adp.com/what-we-offer/hr-outsourcing-and-peo.aspx",
+      "text": "HR Outsourcing and PEO",
+      "title": "",
+      "isExternal": false,
+      "isAnchor": false
+    },
+    {
+      "index": 308,
+      "href": "https://www.facebook.com/AutomaticDataProcessing/",
+      "text": "ADP Facebook Page",
+      "title": "",
+      "isExternal": true,
+      "isAnchor": false
+    },
+    {
+      "index": 309,
+      "href": "https://twitter.com/adp",
+      "text": "ADP X (Twitter) Page",
+      "title": "",
+      "isExternal": true,
+      "isAnchor": false
+    },
+    {
+      "index": 310,
+      "href": "https://www.youtube.com/user/adp",
+      "text": "ADP YouTube Channel",
+      "title": "",
+      "isExternal": true,
+      "isAnchor": false
+    },
+    {
+      "index": 311,
+      "href": "https://www.linkedin.com/company/adp",
+      "text": "ADP LinkedIn Page",
+      "title": "",
+      "isExternal": true,
+      "isAnchor": false
+    },
+    {
+      "index": 313,
+      "href": "https://www.adp.com/site-map.aspx",
+      "text": "Site Map",
+      "title": "",
+      "isExternal": false,
+      "isAnchor": false
+    },
+    {
+      "index": 315,
+      "href": "https://www.adp.com/modern-slavery-statement.aspx",
+      "text": "Modern Slavery Statement",
+      "title": "",
+      "isExternal": false,
+      "isAnchor": false
+    },
+    {
+      "index": 316,
+      "href": "https://www.adp.com/web-accessibility-statement.aspx",
+      "text": "Web Accessibility Statement",
+      "title": "",
+      "isExternal": false,
+      "isAnchor": false
+    },
+    {
+      "index": 318,
+      "href": "tel:18442275237",
+      "text": "Call Support",
+      "title": "",
+      "isExternal": true,
+      "isAnchor": false
+    }
+  ],
+  "hrefs": [
+    {
+      "href": "https://www.adp.com/about-adp/data-privacy/adp-cookie-privacy-statement.aspx",
+      "text": "Cookie Privacy Statement"
+    },
+    {
+      "href": "https://www.adp.com/what-we-offer/payroll/payroll-for-1-49-employees.aspx#main-content",
+      "text": "Skip to main content"
+    },
+    {
+      "href": "https://www.adp.com/what-we-offer/payroll/payroll-for-1-49-employees.aspx#",
+      "text": "Get Pricing"
+    },
+    {
+      "href": "https://www.adp.com/",
+      "text": ""
+    },
+    {
+      "href": "https://www.adp.com/what-we-offer.aspx",
+      "text": "What We Offer"
+    },
+    {
+      "href": "https://www.adp.com/what-we-offer/payroll.aspx",
+      "text": "Payroll"
+    },
+    {
+      "href": "https://www.adp.com/what-we-offer/payroll/payroll-for-1-49-employees.aspx",
+      "text": "Small Business Payroll (1-49 Employees)"
+    },
+    {
+      "href": "https://www.adp.com/what-we-offer/payroll/payroll-for-50-1000-plus-employees.aspx",
+      "text": "Midsized to Enterprise Payroll (50-1,000+ Employees)"
+    },
+    {
+      "href": "https://www.adp.com/what-we-offer/payroll/payroll-for-1-49-employees/payroll-packages.aspx?segmenter-force=yes",
+      "text": "Compare Packages\n            Find the package that's right for your business."
+    },
+    {
+      "href": "https://www.adp.com/what-we-offer/time-and-attendance.aspx",
+      "text": "Time & Attendance"
+    },
+    {
+      "href": "https://www.adp.com/what-we-offer/talent.aspx",
+      "text": "Talent"
+    },
+    {
+      "href": "https://www.adp.com/what-we-offer/benefits.aspx",
+      "text": "Benefits & Insurance"
+    },
+    {
+      "href": "https://www.adp.com/what-we-offer/hr-outsourcing-and-peo/professional-employer-organization.aspx",
+      "text": "PEO & HR Outsourcing"
+    },
+    {
+      "href": "https://www.adp.com/what-we-offer/products/adp-smartcompliance.aspx",
+      "text": "Compliance Services"
+    },
+    {
+      "href": "https://www.adp.com/what-we-offer/ai-solutions.aspx",
+      "text": "AI Capabilities"
+    },
+    {
+      "href": "https://www.adp.com/what-we-offer/integrations.aspx",
+      "text": "Integrations"
+    },
+    {
+      "href": "https://www.adp.com/what-we-offer/marketplace.aspx",
+      "text": "App Marketplace"
+    },
+    {
+      "href": "https://www.adp.com/what-we-offer/products.aspx",
+      "text": "Products by Name"
+    },
+    {
+      "href": "https://www.adp.com/what-we-offer/time-and-attendance/workforce-management.aspx",
+      "text": "Workforce Management"
+    },
+    {
+      "href": "https://www.adp.com/what-we-offer/talent/talent-acquisition.aspx",
+      "text": "Recruiting & Hiring"
+    },
+    {
+      "href": "https://www.adp.com/what-we-offer/talent/talent-management.aspx",
+      "text": "Talent Management & Activation"
+    },
+    {
+      "href": "https://www.adp.com/what-we-offer/hr-services/employee-experience.aspx",
+      "text": "Employee Experience"
+    },
+    {
+      "href": "https://www.adp.com/what-we-offer/benefits/benefits-administration.aspx",
+      "text": "Benefits Administration"
+    },
+    {
+      "href": "https://www.adp.com/what-we-offer/benefits/retirement.aspx",
+      "text": "Retirement Plans"
+    },
+    {
+      "href": "https://www.adp.com/what-we-offer/benefits/group-health-insurance.aspx",
+      "text": "Group Health Insurance"
+    },
+    {
+      "href": "https://www.adp.com/what-we-offer/benefits/business-insurance.aspx",
+      "text": "Business Insurance"
+    },
+    {
+      "href": "https://www.adp.com/what-we-offer/benefits/business-insurance/workers-compensation.aspx",
+      "text": "Workers’ Compensation Insurance"
+    },
+    {
+      "href": "https://www.adp.com/what-we-offer/hr-outsourcing-and-peo/outsource-hr-processes.aspx",
+      "text": "HR Outsourcing"
+    },
+    {
+      "href": "https://www.adp.com/what-we-offer/products/adp-smartcompliance/employment-tax-credits.aspx",
+      "text": "Business Tax Credits"
+    },
+    {
+      "href": "https://www.adp.com/what-we-offer/products/adp-smartcompliance/wage-payments.aspx",
+      "text": "Payment Solutions"
+    },
+    {
+      "href": "https://www.adp.com/what-we-offer/products/adp-smartcompliance/employment-tax.aspx",
+      "text": "Payroll Taxes"
+    },
+    {
+      "href": "https://www.adp.com/what-we-offer/products/adp-smartcompliance/health-compliance.aspx",
+      "text": "Health Compliance"
+    },
+    {
+      "href": "https://www.adp.com/what-we-offer/products/adp-smartcompliance/wage-garnishment.aspx",
+      "text": "Wage Garnishment"
+    },
+    {
+      "href": "https://www.adp.com/what-we-offer/products/adp-smartcompliance/integrations.aspx",
+      "text": "Compliance Integrations"
+    },
+    {
+      "href": "https://www.adp.com/what-we-offer/products/adp-smartcompliance/unemployment-claims.aspx",
+      "text": "Unemployment Claims"
+    },
+    {
+      "href": "https://www.adp.com/what-we-offer/products/adp-smartcompliance/employment-verification.aspx",
+      "text": "Employment Verification"
+    },
+    {
+      "href": "https://www.adp.com/what-we-offer/products/workmarket.aspx",
+      "text": "Contractor Management"
+    },
+    {
+      "href": "https://www.adp.com/what-we-offer/ai-solutions/ai-capabilities.aspx",
+      "text": "AI Capabilities"
+    },
+    {
+      "href": "https://www.adp.com/what-we-offer/ai-solutions/responsible-ai.aspx",
+      "text": "Responsible AI"
+    },
+    {
+      "href": "https://www.adp.com/what-we-offer/integrations/api-central.aspx",
+      "text": "Custom Integrations"
+    },
+    {
+      "href": "https://www.adp.com/what-we-offer/products/run-powered-by-adp.aspx",
+      "text": "RUN Powered by ADP®"
+    },
+    {
+      "href": "https://www.adp.com/what-we-offer/products/totalsource-peo.aspx",
+      "text": "ADP TotalSource®"
+    },
+    {
+      "href": "https://www.adp.com/what-we-offer/products/adp-workforce-now.aspx",
+      "text": "ADP Workforce Now®"
+    },
+    {
+      "href": "https://www.adp.com/what-we-offer/products/lyric.aspx",
+      "text": "ADP Lyric HCM"
+    },
+    {
+      "href": "https://www.adp.com/what-we-offer/products/adp-comprehensive-services.aspx",
+      "text": "ADP® Comprehensive Services"
+    },
+    {
+      "href": "https://www.adp.com/what-we-offer/products/wisely-by-adp.aspx",
+      "text": "Wisely® by ADP"
+    },
+    {
+      "href": "https://www.adp.com/what-we-offer/products/adp-global-payroll.aspx",
+      "text": "ADP® Global Payroll"
+    },
+    {
+      "href": "https://www.adp.com/what-we-offer/products/adp-datacloud.aspx",
+      "text": "ADP® DataCloud"
+    },
+    {
+      "href": "https://www.adp.com/who-we-serve.aspx",
+      "text": "Who We Serve"
+    },
+    {
+      "href": "https://www.adp.com/who-we-serve/by-business-size/1-49-employees.aspx",
+      "text": "Small Business"
+    },
+    {
+      "href": "https://www.adp.com/who-we-serve/by-business-size/50-999-employees.aspx",
+      "text": "Midsized Business"
+    },
+    {
+      "href": "https://www.adp.com/who-we-serve/by-business-size/1000-employees.aspx",
+      "text": "Large Business"
+    },
+    {
+      "href": "https://www.adp.com/who-we-serve/by-business-size/global.aspx",
+      "text": "Global HCM"
+    },
+    {
+      "href": "https://www.adp.com/who-we-serve/by-business-size.aspx",
+      "text": "Business Size"
+    },
+    {
+      "href": "https://www.adp.com/who-we-serve/by-industry.aspx",
+      "text": "Industries"
+    },
+    {
+      "href": "https://www.adp.com/who-we-serve/by-industry/hospitality-restaurant-foodservice.aspx",
+      "text": "Restaurant / Hospitality"
+    },
+    {
+      "href": "https://www.adp.com/who-we-serve/by-industry/manufacturing.aspx",
+      "text": "Manufacturing"
+    },
+    {
+      "href": "https://www.adp.com/who-we-serve/by-industry/professional-technical-services.aspx",
+      "text": "Professional & Technical Services"
+    },
+    {
+      "href": "https://www.adp.com/who-we-serve/by-industry/construction.aspx",
+      "text": "Construction"
+    },
+    {
+      "href": "https://www.adp.com/who-we-serve/by-industry/financial-services.aspx",
+      "text": "Financial Services"
+    },
+    {
+      "href": "https://www.adp.com/who-we-serve/by-industry/retail.aspx",
+      "text": "Retail"
+    },
+    {
+      "href": "https://www.adp.com/who-we-serve/by-industry/healthcare.aspx",
+      "text": "Healthcare"
+    },
+    {
+      "href": "https://www.adp.com/who-we-serve/by-industry/government-education.aspx",
+      "text": "Government / Education"
+    },
+    {
+      "href": "https://www.adp.com/who-we-serve/by-industry/nonprofit-social-services.aspx",
+      "text": "Nonproﬁt / Social Services"
+    },
+    {
+      "href": "https://www.adp.com/who-we-serve/by-partner.aspx",
+      "text": "Partners"
+    },
+    {
+      "href": "https://www.adp.com/who-we-serve/by-partner/accountants.aspx",
+      "text": "Accountants"
+    },
+    {
+      "href": "https://www.adp.com/who-we-serve/by-partner/brokers.aspx",
+      "text": "Brokers"
+    },
+    {
+      "href": "https://www.adp.com/who-we-serve/by-partner/financial-advisors.aspx",
+      "text": "Financial Advisors"
+    },
+    {
+      "href": "https://www.adp.com/who-we-serve/by-partner/private-equity.aspx",
+      "text": "Private Equity"
+    },
+    {
+      "href": "https://www.adp.com/who-we-serve/by-partner/franchise-alliances.aspx",
+      "text": "Franchises"
+    },
+    {
+      "href": "https://www.adp.com/who-we-serve/by-partner/member-organizations.aspx",
+      "text": "Member Organizations"
+    },
+    {
+      "href": "https://www.adp.com/who-we-serve/by-partner/banking-professionals.aspx",
+      "text": "Banking Professionals"
+    },
+    {
+      "href": "https://www.adp.com/who-we-serve/by-partner/software-providers-development.aspx",
+      "text": "Software Providers"
+    },
+    {
+      "href": "https://www.adp.com/who-we-serve/by-partner/enterprise-resource-planning.aspx",
+      "text": "ERPs"
+    },
+    {
+      "href": "https://www.adp.com/what-we-offer/products/adp-embedded-payroll.aspx",
+      "text": "Embedded Payroll"
+    },
+    {
+      "href": "https://www.adp.com/how-we-differ.aspx",
+      "text": "Why ADP"
+    },
+    {
+      "href": "https://www.adp.com/resources.aspx",
+      "text": "Resources"
+    },
+    {
+      "href": "https://www.adp.com/resources/small-business.aspx",
+      "text": "Small Business"
+    },
+    {
+      "href": "https://www.adpri.org/today-at-work",
+      "text": "Discover the latest Today at Work insights from ADP Research"
+    },
+    {
+      "href": "https://www.adp.com/resources/big-beautiful-bill.aspx",
+      "text": "Your guide to the One Big Beautiful Bill Act"
+    },
+    {
+      "href": "https://www.adp.com/resources/small-business/paying-people.aspx",
+      "text": "Paying Your People"
+    },
+    {
+      "href": "https://www.adp.com/resources/small-business/compliance.aspx",
+      "text": "Maintaining Compliance"
+    },
+    {
+      "href": "https://www.adp.com/resources/small-business/recruiting-hiring.aspx",
+      "text": "Recruiting & Hiring"
+    },
+    {
+      "href": "https://www.adp.com/resources/small-business/outsourcing.aspx",
+      "text": "Outsourcing HR"
+    },
+    {
+      "href": "https://www.adp.com/resources/midsized-enterprise.aspx",
+      "text": "Midsized & Enterprise Business"
+    },
+    {
+      "href": "https://www.adp.com/resources/midsized-enterprise/human-capital-management.aspx",
+      "text": "Evaluating HCM"
+    },
+    {
+      "href": "https://www.adp.com/resources/midsized-enterprise/paying-people.aspx",
+      "text": "Paying Your People"
+    },
+    {
+      "href": "https://www.adp.com/resources/midsized-enterprise/compliance.aspx",
+      "text": "Maintaining Compliance"
+    },
+    {
+      "href": "https://www.adp.com/resources/midsized-enterprise/workforce-management.aspx",
+      "text": "Managing Your Workforce"
+    },
+    {
+      "href": "https://www.adp.com/resources/diversity-equity-and-inclusion.aspx",
+      "text": "Diversity, Equity & Inclusion Toolkit"
+    },
+    {
+      "href": "https://www.adp.com/resources/tools.aspx",
+      "text": "Tools"
+    },
+    {
+      "href": "https://www.adp.com/resources/tools/calculators.aspx",
+      "text": "Calculators"
+    },
+    {
+      "href": "https://www.adp.com/resources/tools/tax-guides-and-forms.aspx",
+      "text": "Tax Guides & Forms"
+    },
+    {
+      "href": "https://www.adp.com/resources/tools/glossary.aspx",
+      "text": "Glossary"
+    },
+    {
+      "href": "https://www.adp.com/resources/events.aspx",
+      "text": "Webinars & Events"
+    },
+    {
+      "href": "https://www.adp.com/resources/what-others-say/testimonials.aspx#sort=%40updated%20descending",
+      "text": "Testimonials"
+    },
+    {
+      "href": "https://www.adp.com/resources/demos.aspx",
+      "text": "Demos"
+    },
+    {
+      "href": "https://www.adp.com/spark.aspx",
+      "text": "SPARK Blog"
+    },
+    {
+      "href": "https://www.adpri.org/",
+      "text": "ADP Research"
+    },
+    {
+      "href": "https://www.adp.com/resources/what-others-say.aspx",
+      "text": "What Others Say"
+    },
+    {
+      "href": "https://www.adp.com/resources/what-others-say/testimonials.aspx",
+      "text": "Testimonials"
+    },
+    {
+      "href": "https://www.adp.com/resources/what-others-say/reviews.aspx",
+      "text": "Product Reviews"
+    },
+    {
+      "href": "https://www.adp.com/resources/what-others-say/analyst-reports.aspx",
+      "text": "Analyst Reports"
+    },
+    {
+      "href": "https://www.adp.com/about-adp.aspx",
+      "text": "About"
+    },
+    {
+      "href": "https://www.adp.com/about-adp/leadership.aspx",
+      "text": "Leadership"
+    },
+    {
+      "href": "https://www.adp.com/about-adp/corporate-social-responsibility.aspx",
+      "text": "Corporate Responsibility"
+    },
+    {
+      "href": "https://www.adp.com/about-adp/awards-and-recognition.aspx",
+      "text": "Awards & Recognition"
+    },
+    {
+      "href": "https://www.adp.com/about-adp/ambassadors.aspx",
+      "text": "Sponsorships"
+    },
+    {
+      "href": "https://www.adp.com/about-adp/data-security.aspx",
+      "text": "Data Security"
+    },
+    {
+      "href": "https://www.adp.com/about-adp/data-privacy.aspx",
+      "text": "Data Privacy"
+    },
+    {
+      "href": "https://ventures.adp.com/",
+      "text": "ADP Ventures"
+    },
+    {
+      "href": "https://www.adp.com/worldwide-locations.aspx",
+      "text": "Worldwide Locations"
+    },
+    {
+      "href": "https://jobs.adp.com/?rb=ADP_COM",
+      "text": "Careers"
+    },
+    {
+      "href": "https://tech.adp.com/",
+      "text": "Tech Careers"
+    },
+    {
+      "href": "https://investors.adp.com/",
+      "text": "Investors"
+    },
+    {
+      "href": "https://mediacenter.adp.com/",
+      "text": "Media"
+    },
+    {
+      "href": "https://www.adp.com/contact-us/customer-service.aspx",
+      "text": "Support"
+    },
+    {
+      "href": "https://login.adp.com/welcome",
+      "text": "Sign In"
+    },
+    {
+      "href": "https://signin.adp.com/",
+      "text": "Sign In"
+    },
+    {
+      "href": "https://www.adp.com/what-we-offer/payroll/payroll-for-1-49-employees/payroll-packages.aspx",
+      "text": "Payroll Packages"
+    },
+    {
+      "href": "https://www.adp.com/what-we-offer/payroll/payroll-for-1-49-employees/switching-to-adp.aspx",
+      "text": "Switching to ADP"
+    },
+    {
+      "href": "https://www.adp.com/what-we-offer/payroll/payroll-for-one-employee.aspx",
+      "text": "Payroll for One"
+    },
+    {
+      "href": "tel:+18337350048",
+      "text": "833-735-0048"
+    },
+    {
+      "href": "https://www.adp.com/terms/6-month-offer-terms-sbs.aspx",
+      "text": "See terms & conditions"
+    },
+    {
+      "href": "https://www.youtube-nocookie.com/embed/nE2Owey04cs?amp;rel=0",
+      "text": "Watch Now"
+    },
+    {
+      "href": "https://www.adp.com/privacy.aspx",
+      "text": "Privacy Statement"
+    },
+    {
+      "href": "https://www.adp.com/legal.aspx",
+      "text": "Terms of Use"
+    },
+    {
+      "href": "https://www.adp.com/what-we-offer/payroll/payroll-for-1-49-employees.aspx#tab-bffa0b1a-71f5-4d85-b852-e641fd402175-0",
+      "text": "Payroll & Tax Filing"
+    },
+    {
+      "href": "https://www.adp.com/what-we-offer/payroll/payroll-for-1-49-employees.aspx#tab-bffa0b1a-71f5-4d85-b852-e641fd402175-1",
+      "text": "Service & Support"
+    },
+    {
+      "href": "https://www.adp.com/what-we-offer/payroll/payroll-for-1-49-employees.aspx#tab-bffa0b1a-71f5-4d85-b852-e641fd402175-2",
+      "text": "Confidence & Compliance"
+    },
+    {
+      "href": "https://www.adp.com/what-we-offer/products/clover.aspx",
+      "text": ""
+    },
+    {
+      "href": "https://www.youtube-nocookie.com/embed/1BG7ZSf5Eys?amp;rel=0&autoplay=0&hd=1",
+      "text": ""
+    },
+    {
+      "href": "https://www.youtube-nocookie.com/embed/Q3Rx3398ixM?amp;rel=0&autoplay=0&hd=1",
+      "text": ""
+    },
+    {
+      "href": "https://www.adp.com/resources/what-others-say/testimonials/r/reliability-realized-switching-united-check-cashing.aspx",
+      "text": ""
+    },
+    {
+      "href": "https://www.adp.com/resources/search-results.aspx#sort=relevancy&f:@facetsegmentgroupbusinesssiz122xe=[Under%2049%20Employees]&f:@facetsegmentgrouprhresourceassettype=[Case%20Study]",
+      "text": ""
+    },
+    {
+      "href": "https://www.adp.com/resources/articles-and-insights/articles/p/payroll-checklist.aspx?referrer={58E166DC-9A2C-4B78-895F-C7EE450BA7FF}",
+      "text": ""
+    },
+    {
+      "href": "https://www.adp.com/resources/articles-and-insights/articles/c/choosing-the-right-payroll-provider-for-your-business.aspx?referrer={58E166DC-9A2C-4B78-895F-C7EE450BA7FF}",
+      "text": ""
+    },
+    {
+      "href": "https://www.adp.com/resources/articles-and-insights/articles/s/switching-payroll-providers.aspx?referrer={58E166DC-9A2C-4B78-895F-C7EE450BA7FF}",
+      "text": ""
+    },
+    {
+      "href": "https://www.adp.com/terms/charity-gift.aspx",
+      "text": "terms & conditions"
+    },
+    {
+      "href": "https://www.adp.com/what-we-offer/hr-services.aspx",
+      "text": "HR Services"
+    },
+    {
+      "href": "https://www.adp.com/what-we-offer/hr-outsourcing-and-peo.aspx",
+      "text": "HR Outsourcing and PEO"
+    },
+    {
+      "href": "https://www.facebook.com/AutomaticDataProcessing/",
+      "text": "ADP Facebook Page"
+    },
+    {
+      "href": "https://twitter.com/adp",
+      "text": "ADP X (Twitter) Page"
+    },
+    {
+      "href": "https://www.youtube.com/user/adp",
+      "text": "ADP YouTube Channel"
+    },
+    {
+      "href": "https://www.linkedin.com/company/adp",
+      "text": "ADP LinkedIn Page"
+    },
+    {
+      "href": "https://www.adp.com/site-map.aspx",
+      "text": "Site Map"
+    },
+    {
+      "href": "https://www.adp.com/modern-slavery-statement.aspx",
+      "text": "Modern Slavery Statement"
+    },
+    {
+      "href": "https://www.adp.com/web-accessibility-statement.aspx",
+      "text": "Web Accessibility Statement"
+    },
+    {
+      "href": "tel:18442275237",
+      "text": "Call Support"
+    }
+  ],
+  "statistics": {
+    "popups_dismissed": 1,
+    "accordions_expanded": 41,
+    "tabs_clicked": 3,
+    "screenshots_captured": 20,
+    "images_found": 55,
+    "images_downloaded": 55,
+    "links_found": 149,
+    "dom_size": 400610
+  }
+}

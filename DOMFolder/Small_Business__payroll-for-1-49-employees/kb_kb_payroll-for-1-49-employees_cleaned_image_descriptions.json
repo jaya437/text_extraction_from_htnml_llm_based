@@ -1,0 +1,13 @@
+{
+  "processing_metadata": {
+    "source_url": "https://www.adp.com/what-we-offer/payroll/payroll-for-1-49-employees.aspx",
+    "model": "claude-sonnet-4-20250514",
+    "processed_at": "2026-01-06T19:49:05.383528",
+    "batches_processed": 0,
+    "total_images_evaluated": 0,
+    "images_included": 0,
+    "images_excluded": 0
+  },
+  "included_images": [],
+  "excluded_images": []
+}
